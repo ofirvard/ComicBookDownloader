@@ -31,16 +31,16 @@ public class Main
 
 
 
-////            String url = readFile("comic list.txt");
-////            String url2 = "https://kissmanga.com/Manga/Sono-Bisque-Doll-wa-Koi-wo-suru/Vol--003-Ch-017?id=466509";
+//            String url = readFile("comic list.txt");
+//            String url2 = "https://kissmanga.com/Manga/Sono-Bisque-Doll-wa-Koi-wo-suru/Vol--003-Ch-017?id=466509";
 //            initFilesAndFolders();
 //            String html = readFile("comic.txt");
 //
-////            CHttpRequester requester = new CHttpRequester();
-////            requester.get("https://kissanime.ru/");
+//            CHttpRequester requester = new CHttpRequester();
+//            requester.get("https://kissanime.ru/");
 //
 //
-////            comicHTMLDownloader.connectToSite(url);
+//            comicHTMLDownloader.connectToSite(url);
 //
 //            ComicTemplate comicTemplate = decipher.decipher(html);
 //            downloader.downloadImages(comicTemplate);
