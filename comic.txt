@@ -1,0 +1,1031 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	
+    Chronicles of the Dragon Knights
+    Issue #18
+    - Read
+    Chronicles of the Dragon Knights
+    Issue #18
+    comic online in high quality
+
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="fb:admins" content="100006233868825" /><meta property="fb:app_id" content="130397647116314" />
+<script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
+<!-- CSS -->
+<link href="/Content/css/tpl_style.css?v=7.2" rel="stylesheet" type="text/css" />
+<link href="/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/Content/images/favicon.ico" type="image/x-icon" />
+
+<!--[if IE 6]><link href="/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/Content/css/tpl_ie_7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/Content/css/tpl_ie_7.css" /><![endif]-->
+
+
+    <meta name="description" content="Read Chronicles of the Dragon Knights Issue #18 comic online free and high quality. Unique reading type: All pages - just need to scroll to read next page." />
+    <meta name="keywords" content="read Chronicles of the Dragon Knights Issue #18 comic online, download Chronicles of the Dragon Knights Issue #18 , Chronicles of the Dragon Knights Issue #18" />
+    <link rel="image_src" href="/Uploads/Etc/6-22-2016/25025012.jpg" />
+    <meta name="referrer" content="no-referrer" />
+
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-63783416-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+
+    <script async type="text/javascript" src="//retiremely.com/1clk/10275"></script>
+</head>
+<body>
+
+    <div id="containerRoot">
+        <div id="head">
+            <h3>
+
+<div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
+
+    <div id="topHolderBox" style="width: 140px; height: 30px;">
+        <img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
+        <span style="color: #888">Hi</span>&nbsp;&nbsp;&nbsp;<a id="aDropDown" class="boxDropDown"
+            style="margin-top: -7px; cursor: pointer; width: 110px"><span>
+                ofirv
+                (!)
+                <small style="color: #8D65A0">▼</small></span></a>
+        <div id="menu_box" style="display: none">
+            <a href="/BookmarkList">&nbsp;&nbsp;<img
+                src="/Content/images/bookmark1.png" />&nbsp;Bookmark list
+                (!)</a> <a href="/Profile">
+                    &nbsp;&nbsp;<img src="/Content/images/change.png" />&nbsp;Profile</a>
+             <a href="/Logout">
+                    &nbsp;&nbsp;<img src="/Content/images/logout.png" />&nbsp;Logout</a>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var _0x9f16 = ["\x77\x69\x64\x74\x68", "\x23\x61\x44\x72\x6F\x70\x44\x6F\x77\x6E", "\x23\x74\x6F\x70\x48\x6F\x6C\x64\x65\x72\x42\x6F\x78", "\x6C\x65\x66\x74", "\x23\x6D\x65\x6E\x75\x5F\x62\x6F\x78", "\x63\x73\x73", "\x64\x69\x73\x70\x6C\x61\x79", "\x6E\x6F\x6E\x65", "\x62\x6C\x6F\x63\x6B", "\x6D\x6F\x75\x73\x65\x6F\x76\x65\x72", "\x2E\x62\x6F\x78\x44\x72\x6F\x70\x44\x6F\x77\x6E", "\x6D\x6F\x75\x73\x65\x6C\x65\x61\x76\x65"]; var userBarWidth = $(_0x9f16[1])[_0x9f16[0]](); $(_0x9f16[1])[_0x9f16[0]](userBarWidth + 30); $(_0x9f16[2])[_0x9f16[0]]($(_0x9f16[2])[_0x9f16[0]]() + userBarWidth); $(_0x9f16[4])[_0x9f16[5]](_0x9f16[3], 389 - $(_0x9f16[4])[_0x9f16[0]]()); function HideBox() { $(_0x9f16[4])[_0x9f16[5]](_0x9f16[6], _0x9f16[7]); }; function UnhideBox() { $(_0x9f16[4])[_0x9f16[5]](_0x9f16[6], _0x9f16[8]); }; $(_0x9f16[10])[_0x9f16[9]](function () { UnhideBox(); }); $(_0x9f16[4])[_0x9f16[11]](function () { HideBox(); });
+    </script>
+
+</div>
+
+                <div id="search" style="position: relative">
+                    <form id="formSearch" method="post">
+                    <p>
+                        <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off" />
+                        <input id="imgSearch" type="image" src="https://readcomiconline.to/Content/images/search.png"
+                            class="button" onclick="return false;" />
+                    </p>
+                    <div id="result_box" style="display: none; left: 57px; margin-top: -3px">
+                    </div>
+                    <div style="float: left; width: 240px; text-align: left; margin-left: 58px;">
+                        <div style="float: left; width: 90px">
+                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconline&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
+                                scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
+                                height: 21px;" allowtransparency="true"></iframe>
+                        </div>
+                        <div style="float: left; width: 65px">
+                            <a href="https://twitter.com/ReadComicOnline" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">&nbsp;</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        </div>
+                    </div>
+                    <div style="margin: 10px 48px 10px 0">
+                        <a href="https://readcomiconline.to/AdvanceSearch">
+                            <img src="https://readcomiconline.to/Content/images/read.png"
+                                width="16px" border="0" style="vertical-align: middle" />&nbsp;&nbsp;Adv Search</a>
+                    </div>
+                    </form>
+                </div>
+                <script type="text/javascript">
+                    $('#imgSearch').click(function () {
+                        Submit();
+                    });
+
+                    var delay = (function () {
+                        var timer = 0;
+                        return function (callback, ms) {
+                            clearTimeout(timer);
+                            timer = setTimeout(callback, ms);
+                        };
+                    })();
+
+                    $('#keyword').keyup(function () {
+                        delay(function () {
+                            Suggest();
+                        }, 500);
+                    });
+
+                    $('#selectSearch').change(function () {
+                        Suggest();
+                    });
+
+                    $("#selectSearch option").each(function () {
+                        var url = location.href;
+                        if (url.indexOf($(this).attr('value')) != -1)
+                            $(this).attr("selected", "selected");
+                    });
+
+                    function Submit() {
+                        if ($.trim($('#keyword').val()).length < 2) {
+                            $('#keyword').blur();
+                            alert('Keyword must be more than one character!');
+                        }
+                        else {
+                            $("#formSearch").attr('action', "/Search/Comic");
+                            $("#formSearch").submit();
+                        }
+                    }
+
+
+                    function Suggest() {
+                        var keyword = $.trim($('#keyword').val());
+                        if (keyword != "") {
+                            $('#result_box').html("<span id='loader'></span>");
+                            $('#result_box').css('display', 'block');
+                            $.ajax(
+                            {
+                                type: "POST",
+                                url: "/Search/SearchSuggest",
+                                data: "type=Comic" + '&keyword=' + encodeURIComponent(keyword),
+                                success: function (message) {
+                                    if (message != "") {
+                                        $('#result_box').html(message);
+                                    }
+                                    else {
+                                        //$('#result_box').html('');
+                                        //$('#result_box').css('display', 'none');
+                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
+                                    }
+                                }
+                            });
+                        }
+                        else {
+                            $('#result_box').html('');
+                            $('#result_box').css('display', 'none');
+                        }
+                    }
+
+                    $(document).click(function (e) {
+                        var container = $("#search");
+                        if (container.has(e.target).length == 0) {
+                            $("#result_box").hide();
+                        }
+                    });
+                </script>
+            </h3>
+            <h1>
+                <a href="/" title="ReadComicOnline - High quality comic online"
+                    class="logo">ReadComicOnline.to</a></h1>
+        </div>
+        <!-- end div head -->
+        <div class="clear">
+        </div>
+        <div id="headnav">
+
+<div id="navbar">
+    <div id="navcontainer">
+        <ul>
+            <li id="liHome"><a href="https://readcomiconline.to">Home</a></li>
+            <li id="liDS"><a href="https://readcomiconline.to/ComicList">
+                Comic list</a></li>
+            <li id="li1"><a target="_blank" href="http://kissmanga.com">
+                Manga list</a></li>
+            <li id="liReportError"><a href="/Message/ReportError">Report Error</a></li>
+            <li id="liRequest"><a rel="nofollow" target="_blank" href="https://m.me/readcomiconline">
+                Request Comic</a></li>
+
+            <li id="liCommunity"><a rel="nofollow" target="_blank" href="https://discord.gg/eCzUxNB">Forum</a></li>
+            <li id="li2"><a target="_blank" href="http://kimcartoon.to">Watch cartoon</a></li>
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var path = 'Comic';
+    if (path == 'Home')
+        $('#liHome a').attr('id', 'currentTab');
+    else if (path == 'Comic' || path == 'Genre' || path == 'Group')
+        $('#liDS a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('GoPremium') >= 0)
+        $('#liGoPremium a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('FreeDownload') >= 0)
+        $('#liDS a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('FAQ') >= 0)
+        $('#liFAQ a').attr('id', 'currentTab');
+    else if (path == 'Error')
+        $('#liReport a').attr('id', 'currentTab');
+    else
+        $('#navcontainer a[href*="' + path + '"]').attr('id', 'currentTab');
+</script>
+
+    <div id="navsubbar">
+        <p>
+            <a href="/Comic/Chronicles-of-the-Dragon-Knights">
+                Comic
+                Chronicles of the Dragon Knights
+                information</a>
+        </p>
+    </div>
+
+        </div>
+        <!-- end div headnav -->
+
+
+    <div style="width: 95%; text-align: center; margin: auto">
+        <!-- Episodes and pages -->
+        <div style="margin: auto; width: 780px; padding-top: 10px">
+            <label class="lbl" style="float: left;">Quality</label>
+            <select id="selectQuality" style="float: left; min-width: 93px">
+                <option value="hq" selected>High quality</option>
+                <option value="lq" >Low quality</option>
+            </select>
+            <label class="lbl" style="float: left;">Reading type</label>
+            <select id="selectReadType" style="float: left; min-width: 93px">
+                <option value="0">One page</option>
+                <option value="1" selected>All pages</option>
+            </select>
+            <label class="lbl" style="float: left;">Issue</label>
+            <select class="selectEpisode" style="float: left; width: 250px">
+
+                <option value="Issue-1?id=66344" >
+                    Issue #1
+                </option>
+
+                <option value="Issue-2?id=66348" >
+                    Issue #2
+                </option>
+
+                <option value="Issue-3?id=66350" >
+                    Issue #3
+                </option>
+
+                <option value="Issue-4?id=88094" >
+                    Issue #4
+                </option>
+
+                <option value="Issue-5?id=88095" >
+                    Issue #5
+                </option>
+
+                <option value="Issue-6?id=94066" >
+                    Issue #6
+                </option>
+
+                <option value="Issue-7?id=94067" >
+                    Issue #7
+                </option>
+
+                <option value="Issue-8?id=96312" >
+                    Issue #8
+                </option>
+
+                <option value="Issue-9?id=102710" >
+                    Issue #9
+                </option>
+
+                <option value="Issue-10?id=102712" >
+                    Issue #10
+                </option>
+
+                <option value="Issue-11?id=105604" >
+                    Issue #11
+                </option>
+
+                <option value="Issue-12?id=134596" >
+                    Issue #12
+                </option>
+
+                <option value="Issue-13?id=134598" >
+                    Issue #13
+                </option>
+
+                <option value="Issue-14?id=134600" >
+                    Issue #14
+                </option>
+
+                <option value="Issue-15?id=135591" >
+                    Issue #15
+                </option>
+
+                <option value="Issue-16?id=135620" >
+                    Issue #16
+                </option>
+
+                <option value="Issue-17?id=135641" >
+                    Issue #17
+                </option>
+
+                <option value="Issue-18?id=137697" selected>
+                    Issue #18
+                </option>
+
+            </select>
+            <div style="float: left; padding-left: 20px">
+
+                <a href="/Comic/Chronicles-of-the-Dragon-Knights/Issue-17?id=135641">
+                    <img class='btnPrevious' src="/Content/images/previous.png" title="Previous Issue" border="0" />
+                </a>&nbsp;&nbsp;
+
+            </div>
+        </div>
+        <!-- End Episodes and pages -->
+        <div class="clear">&nbsp;</div>
+        <!-- Ads -->
+
+<div style="width: 1010px; height: 280px; margin: 0px auto; overflow: hidden;">
+    <script data-cfasync="false" type="text/javascript">(function(){var n,x,e=['cmVmZXJyZXI=','em9uZWlk','dGltZV9kaWZm','ZmFpbGVkX3VybA==','ZmFpbF90aW1l','dXNlcl9pZA==','Y3VycmVudF91cmw=','bGFzdF9zdWNjZXNz','c3VjY2Vzc19jb3VudA==','dXNlcl9hZ2VudA==','c2NyZWVuX3dpZHRo','c2NyZWVuX2hlaWdodA==','bWV0aG9k','dGltZXpvbmU=','ZmFpbGVkX3VybF9kb21haW4=','cmVmZXJyZXJfZG9tYWlu','Y3VycmVudF91cmxfZG9tYWlu','YnJvd3Nlcl9sYW5n','bWFrZUZ1bGxzY3JlZW5MaW5r','dGFidW5kZXI=','bWVzc2FnZQ==','YW5kcm9pZA==','d2luZG93cyBudA==','ZW4tVVM=','ZW4tR0I=','ZW4tQ0E=','ZW4tQVU=','c3YtU0U=','Z2V0VGltZXpvbmVPZmZzZXQ=','YnJvYWRjYXN0Q2FsbHNpZ24=','dW5Ccm9hZGNhc3RJbmZv','cnVuQUFC','emZnZm9ybWF0cw==','VVJM','em9uZUlk','c291cmNlWm9uZUlk','Zm9ybWF0','dmVyc2lvbg==','ZG9tYWlu','Z2VuZXJhdGlvblRpbWU=','ZXh0cmE=','c2VsZWN0b3I=','bWFrZVNtYXJ0T3ZlcmxheXM=','cmVtb3ZlT3ZlcmxheXM=','bWFrZU92ZXJsYXk=','b2Zmc2V0V2lkdGg=','b2Zmc2V0SGVpZ2h0','c29tZQ==','cG9zaXRpb24=','Y2xvbmVOb2Rl','YXBwZW5kQ2hpbGQ=','cmVwbGFjZQ==','aW5uZXJIVE1M','Z2V0RWxlbWVudHNCeVRhZ05hbWU=','Zml4ZWQ=','Ym90dG9t','cmlnaHQ=','ZWxlbWVudA==','aXNDbGlja0F2YWlsYWJsZQ==','cHJldmVudERlZmF1bHQ=','c3RvcFByb3BhZ2F0aW9u','UkVESVJFQ1RfU1VGRklY','dGltZW91dA==','c2FtZW9yaWdpbg==','aW5jcmVtZW50Q2xpY2tz','c3RvcEltbWVkaWF0ZVByb3BhZ2F0aW9u','cmVtb3Zl','Y2xvc2Vk','b3BlbmVy','aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9mYXZpY29uLmljbw==','KGxvZ298YnJhbmQp','XmJsb2I6','aW1n','c29ydA==','Y2xhc3NMaXN0','TVNfSU5fSE9VUg==','TVNfSU5fU0VDT05E','dWtoZm94emRvZ3E=','cGluZw==','cG9uZw==','cmVxdWVzdA==','cmVxdWVzdF9hY2NlcHRlZA==','cmVxdWVzdF9mYWlsZWQ=','dXJs','Y2hhbm5lbA==','cmVxdWVzdF9pZA==','em9uZWlkX2FkYmxvY2s=','Y2FsbHNpZ24=','em9uZWlkX29yaWdpbmFs','cmVzb2x2ZQ==','cmVqZWN0','YWxs','cmFjZQ==','c2V0SW1tZWRpYXRl','c2V0VGltZW91dA==','c2V0SW50ZXJ2YWw=','Y2xlYXJUaW1lb3V0','Y2xlYXJJbnRlcnZhbA==','Y2xvc2U=','X2lk','X2NsZWFyRm4=','dW5yZWY=','cmVm','ZW5yb2xs','X2lkbGVUaW1lb3V0SWQ=','X2lkbGVUaW1lb3V0','dW5lbnJvbGw=','X3VucmVmQWN0aXZl','YWN0aXZl','X29uVGltZW91dA==','Y2xlYXJJbW1lZGlhdGU=','ZG9jdW1lbnQ=','ZnVuY3Rpb24=','Y2FsbGJhY2s=','YXJncw==','bmV4dFRpY2s=','aW1wb3J0U2NyaXB0cw==','b25tZXNzYWdl','c2V0SW1tZWRpYXRlJA==','c291cmNl','YXR0YWNoRXZlbnQ=','cG9ydDE=','cG9ydDI=','b25yZWFkeXN0YXRlY2hhbmdl','Z2V0UHJvdG90eXBlT2Y=','cHJvY2Vzcw==','W29iamVjdCBwcm9jZXNzXQ==','TWVzc2FnZUNoYW5uZWw=','c2V0VGltZW91dCBoYXMgbm90IGJlZW4gZGVmaW5lZA==','Y2xlYXJUaW1lb3V0IGhhcyBub3QgYmVlbiBkZWZpbmVk','cnVu','ZnVu','YXJyYXk=','dGl0bGU=','YnJvd3Nlcg==','ZW52','YXJndg==','dmVyc2lvbnM=','YWRkTGlzdGVuZXI=','b25jZQ==','b2Zm','cmVtb3ZlTGlzdGVuZXI=','cmVtb3ZlQWxsTGlzdGVuZXJz','ZW1pdA==','cHJlcGVuZExpc3RlbmVy','cHJlcGVuZE9uY2VMaXN0ZW5lcg==','bGlzdGVuZXJz','YmluZGluZw==','cHJvY2Vzcy5iaW5kaW5nIGlzIG5vdCBzdXBwb3J0ZWQ=','Y3dk','Y2hkaXI=','cHJvY2Vzcy5jaGRpciBpcyBub3Qgc3VwcG9ydGVk','dW1hc2s=','bG9hZA==','Y3JlYXRlVGV4dE5vZGU=','c2F2ZUNhY2hl','Z2V0Q2FjaGU=','bWdkYjlvNzlndg==','ZXhwb3J0cw==','Y2FsbA==','ZGVmaW5lUHJvcGVydHk=','X19lc01vZHVsZQ==','ZGVmYXVsdA==','cHJvdG90eXBl','aGFzT3duUHJvcGVydHk=','Wk9ORUlEX0FEQkxPQ0s=','Wk9ORUlEX09SSUdJTkFM','T05DTElDS19GUkVRVUVOQ1k=','T05DTElDS19DQVBQSU5H','T05DTElDS19USU1FT1VU','T05DTElDS19QT1BVUA==','T05DTElDS19TRVRUSU5HUw==','Rk9STUFUX0NBTExTSUdO','Rk9STUFUX0RFTElWRVJZX1VSTF9KUw==','Rk9STUFUX0RFTElWRVJZX1VSTF9DU1M=','VEFHX1RZUEU=','VEFHX0dFTkVSQVRFRA==','RE9NQUlOU19TRUNSRVRfU1RSSU5H','RE9NQUlOU19TRUNSRVRfU1VGRklYRVM=','RE9NQUlOU19TRUNSRVRfS0VZ','UFJPWFlfRE9NQUlOU19TRUNSRVRfU1RSSU5H','UFJPWFlfRE9NQUlOU19TRUNSRVRfU1VGRklYRVM=','UFJPWFlfRE9NQUlOU19TRUNSRVRfS0VZ','SEFORExFUl9OQU1FX0VSUk9S','SEFORExFUl9OQU1FX0xPQUQ=','Z2V0RXh0ZW50aW9uRGlhbHlVcmw=','Z2V0UHJveHlEb21haW4=','Z2V0RGVsaXZlcnlEb21haW4=','ZGVjcnlwdFN0cmluZw==','cHN0cmluZ3M=','Y3VycmVudA==','cGtleXM=','cHN1ZmZpeGVz','am9pbg==','c3RyaW5ncw==','a2V5cw==','c3VmZml4ZXM=','VkVSU0lPTg==','NS4zLjQ=','UkVHVUxBUl9TQ1JJUFRfTE9BRElOR19USU1FT1VU','UFJPWFlfSFRUUF9SRVFVRVNU','emZncHJveHlodHRw','S0VZX0xPQ0FMX1NUT1JBR0U=','X19fZ29v','U1RPUkFHRV9WQUxVRVNfU0VQQVJBVE9S','QU5USUFEQkxPQ0tfVFlQRV9VTktOT1dO','QU5USUFEQkxPQ0tfVFlQRV9QSFA=','QU5USUFEQkxPQ0tfVFlQRV9KUw==','S0VZX01VTFRJUExJRVI=','dG9DaGFyQ29kZQ==','ZnJvbUNoYXJDb2Rl','Y3JlYXRlS2V5','ZW5jcnlwdFN0cmluZw==','dG9TdHJpbmc=','Y2hhckNvZGVBdA==','c3BsaXQ=','bWFw','bGVuZ3Ro','RVZFTlRfSUQ=','RVZFTlRfTkFNRQ==','dW5kZWZpbmVk','Y3VycmVudFNjcmlwdA==','Y2xpY2s=','cmFuZG9t','c2xpY2U=','cmVtb3ZlRXZlbnRMaXN0ZW5lcg==','Z2V0UGxhdGZvcm1TY29yZQ==','dXNlckFnZW50','Z2V0U2NyZWVuU2NvcmU=','c2NyZWVu','aGVpZ2h0','Z2V0VGltZXpvbmVTY29yZQ==','Z2V0RG9tYWluU2NvcmU=','bG9jYXRpb24=','aHJlZg==','Z2V0QnJvd3NlckxhbmdTY29yZQ==','bGFuZ3VhZ2U=','dXNlckxhbmd1YWdl','Zm9yRWFjaA==','dGFyZ2V0SWQ=','dmFsdWU=','cG9zdE1lc3NhZ2U=','YWRkRXZlbnRMaXN0ZW5lcg==','Z2V0T2Zmc2V0','cXVlcnk=','dHJhdmVyc2VQYXJlbnRz','YnJvYWRjYXN0','Y2hlY2tMb2FkZWQ=','c2hvdWxkQ2hlY2tDYWxsc2lnbg==','ZG9jdW1lbnRFbGVtZW50','Ym9keQ==','cGFnZVlPZmZzZXQ=','c2Nyb2xsVG9w','cGFnZVhPZmZzZXQ=','c2Nyb2xsTGVmdA==','Y2xpZW50VG9w','Y2xpZW50TGVmdA==','Z2V0Qm91bmRpbmdDbGllbnRSZWN0','dG9w','bGVmdA==','cXVlcnlTZWxlY3RvckFsbA==','dGFnTmFtZQ==','cGFyZW50Tm9kZQ==','UEhQ','QUFCIA==','U1RSX0NBTExTSUdOUw==','a2V5','c3RyaW5n','cGtleQ==','cHN0cmluZw==','YnJvYWRjYXN0SW5mbw==','Q0FMTFNJR05fVE9fRk9STUFU','aXNMb2FkZWQ=','REVGQVVMVF9DQUxMU0lHTg==','emZnbG9hZGVkcG9wdXA=','T05DTElDS19DQUxMU0lHTg==','UFVTSF9DQUxMU0lHTg==','emZnbG9hZGVkcHVzaG9wdA==','UFVTSF9IVFRQX0NBTExTSUdO','emZnbG9hZGVkcHVzaA==','UFVTSF9QT1BVUF9DQUxMU0lHTg==','emZnbG9hZGVkcHVzaHBvcHVw','UFVTSF9PUFRfQ0FMTFNJR04=','SU5URVJTVElUSUFMX0NBTExTSUdO','emZnbG9hZGVkaW50ZXJzdGl0aWFs','TkFUSVZFQURTX0NBTExTSUdO','emZnbG9hZGVkbmF0aXZl','T25DbGljaw==','UHVzaCBub3RpZmljYXRpb24gKEhUVFAp','UHVzaCBub3RpZmljYXRpb24gKEhUVFBTKQ==','UHVzaCBub3RpZmljYXRpb24gKERvdWJsZSBUYWcp','SW50ZXJzdGl0aWFs','TmF0aXZl','b25jbGljaw==','bmF0aXZl','U01BUlRfT1ZFUkxBWVNfUkVEUkFXX1RJTUVPVVQ=','T0JKRUNUU19GT1JfT1ZFUkxBWVM=','b2JqZWN0LCBpZnJhbWUsIGVtYmVkLCB2aWRlbywgYXVkaW8=','QkFOTkVSX1NJWkVT','NDY4eDYw','MjM0eDYw','NzI4eDkw','MTIweDI0MA==','MzAweDI1MA==','MjQweDQwMA==','QkFOTkVSX1NJWkVfU0VQQVJBVE9S','QUJTT0xVVEVfUE9TSVRJT04=','YWJzb2x1dGU=','T1ZFUkxBWV9FTEVNRU5UX05BTUU=','ZGl2','T1ZFUkxBWV9QUk9UT1RZUEU=','Y3JlYXRlRWxlbWVudA==','TUFYSU1VTV9aSU5ERVg=','VFJBTlNQQVJFTlRfR0lG','dXJsKGRhdGE6aW1hZ2UvZ2lmO2Jhc2U2NCxSMGxHT0RsaEFRQUJBSUFBQUFBQUFQLy8veUg1QkFFQUFBQUFMQUFBQUFBQkFBRUFBQUlCUkFBNyk=','U0FGRV9MSU5LX1JFTA==','bm9mb2xsb3cgbm9yZWZmZXJlciBub29wZW5lcg==','V1JBUFBFUl9UQUdfTkFNRVM=','c2VjdGlvbg==','YXJ0aWNsZQ==','bmF2','TElOS19URU1QTEFURV9BUlJBWQ==','PGEgaHJlZj0iJXMuaHRtbCI+PC9hPg==','PGRpdj48YSBocmVmPSIlcy5odG1sIj48L2E+PC9kaXY+','PHNwYW4+PGEgaHJlZj0iJXMuaHRtbCI+PC9hPjwvc3Bhbj4=','RVhQQU5EX0VWRU5UX1NUQVJU','bW91c2Vkb3du','RVhQQU5EX0VWRU5UX0VORA==','bW91c2V1cA==','VVNFX0NBUFRVUkU=','V0lUSE9VVF9DSElMRFM=','U1RZTEVfVEFH','bGluaw==','U1RZTEVfUkVM','c3R5bGVzaGVldA==','U1RZTEVfQ1JPU1NfT1JJR0lO','YW5vbnltb3Vz','U1RZTEVfTUlNRV9UWVBF','dGV4dC9jc3M=','V0FJVF9USUxMX1NDUklQVF9MT0FERUQ=','c3R5bGU=','ekluZGV4','YmFja2dyb3VuZEltYWdl','Z2V0UHJveHlUYWdVcmw=','cHJveHlSZXF1ZXN0QnlDU1M=','cHJveHlSZXF1ZXN0QnlQTkc=','cHJveHlSZXF1ZXN0QnlYSFI=','cmVxdWVzdEJ5UHJveHk=','Xmh0dHBzPzo=','Xi8v','c2NyaXB0','c2NyaXB0cw==','dmVuZG9y','aW5kZXg=','anF1ZXJ5','bG9kYXNo','dW5kZXJzY29yZQ==','YW5ndWxhcg==','cmVhY3Q=','c3R5bGVz','cmVzZXQ=','YnVuZGxl','Ym9vdHN0cmFw','anF1ZXJ5LXVp','bG9nbw==','aW1hZ2U=','YnJhbmQ=','aGVhZGVy','aWNvbg==','ZmF2aWNvbg==','d2FybmluZw==','ZXJyb3I=','c3Rhcg==','ZGF0YQ==','Y3VzdG9t','Y29uZmln','YWpheA==','bWVudQ==','YXJ0aWNsZXM=','cmVzb3VyY2Vz','dmFsaWRhdG9ycw==','dDRrZDcwZDhjZ2U=','Zmxvb3I=','dGVzdA==','aHR0cHM6','aHR0cHM6Ly8=','aG9zdA==','Y29uY2F0','ZmlsdGVy','aW5kZXhPZg==','c2hpZnQ=','dGV4dA==','dGhlbg==','Y2F0Y2g=','LmpzPw==','UFJPWFlfQ1NT','LmNzcz8=','cmVxdWVzdEJ5Q1NT','c3VjY2Vzcw==','ZmFpbA==','UFJPWFlfUE5H','LnBuZz8=','cmVxdWVzdEJ5UE5H','UFJPWFlfWEhS','Lmpzb24=','cmVxdWVzdEJ5WEhS','SFRUUF9NRVRIT0RfR0VU','cmVzcG9uc2U=','T1VUU0lERV9PRl9SQU5HRV9DSEFS','c2hpZnRTdHJpbmc=','cnVuU2NvcmluZw==','Y3JlYXRlS2V5cw==','KFteYS16MC05XSsp','cmF3','ZGlzcGF0Y2hFdmVudA==','YXBwbHk=','dG9Mb3dlckNhc2U=','c3R5bGVTaGVldHM=','cG9w','Y3NzUnVsZXM=','c2VsZWN0b3JUZXh0','aW5jbHVkZXM=','LndpZGdldC1jb2wtMTAtc3A=','Y29udGVudA==','cmVs','dHlwZQ==','Y3Jvc3NPcmlnaW4=','aGVhZA==','aW5zZXJ0QmVmb3Jl','Zmlyc3RDaGlsZA==','b25sb2Fk','cmVtb3ZlQ2hpbGQ=','SFRUUF9SRVNQT05TRV9CTE9C','b25lcnJvcg==','c3Jj','Y2FudmFz','d2lkdGg=','Z2V0Q29udGV4dA==','ZHJhd0ltYWdl','Z2V0SW1hZ2VEYXRh','cmV2ZXJzZQ==','cmVkdWNl','cG93','cHVzaA==','c3Vic3RyaW5n','SFRUUF9SRVNQT05TRV9KU09O','b3Blbg==','cmVzcG9uc2VUeXBl','c2V0UmVxdWVzdEhlYWRlcg==','SFRUUF9IRUFERVJfVE9LRU4=','c3RhdHVz','c3RyaW5naWZ5','ZXJyb3IgJw==','c3RhdHVzVGV4dA==','JyB3aGlsZSByZXF1ZXN0aW5nIA==','SFRUUF9NRVRIT0RfUE9TVA==','SFRUUF9IRUFERVJfQ09OVEVOVA==','SFRUUF9IRUFERVJfQ09OVEVOVF9KU09O','c2VuZA==','VG9rZW4=','Q29udGVudC1UeXBl','YXBwbGljYXRpb24vanNvbg==','anNvbg==','YmxvYg==','R0VU','UE9TVA==','UHJvbWlzZQ==','cmV0dXJuIHRoaXM=','dGhpcw==','b2JqZWN0','aXRlcmF0b3I=','bmV4dA==','ZG9uZQ==','cmV0dXJu','aXNBcnJheQ==','SW52YWxpZCBhdHRlbXB0IHRvIGRlc3RydWN0dXJlIG5vbi1pdGVyYWJsZSBpbnN0YW5jZQ==','YXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04','bnJhOGNyNDlkcmc=','dW5rbm93bg==','REVMSVZFUllfSlM=','REVMSVZFUllfQ1NT','UFJPWFlfSlM=','L2V2ZW50','Z2V0VGltZQ=='];n=e,x=158,function(x){for(;--x;)n.push(n.shift())}(++x);var Y=function(x,n){var t=e[x-=0];void 0===Y.GWLtjQ&&(!function(){var n;try{n=Function(atob('cmV0dXJuIChmdW5jdGlvbigpIHt9LmNvbnN0cnVjdG9yKCJyZXR1cm4gdGhpcyIpKCApKTs='))()}catch(x){n=window}n.atob||(n.atob=function(x){for(var n,t,c=String(x).replace(/=+$/,''),e=0,r=0,u='';t=c.charAt(r++);~t&&(n=e%4?64*n+t:t,e++%4)?u+=String.fromCharCode(255&n>>(-2*e&6)):0)t='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='.indexOf(t);return u})}(),Y.PbFLJj=function(x){for(var n=atob(x),t=[],c=0,e=n.length;c<e;c++)t+='%'+('00'+n.charCodeAt(c).toString(16)).slice(-2);return decodeURIComponent(t)},Y.VnxgqG={},Y.GWLtjQ=!0);var c=Y.VnxgqG[x];return void 0===c?(t=Y.PbFLJj(t),Y.VnxgqG[x]=t):t=c,t};!function(t){var c={};function e(x){if(c[x])return c[x][Y('0x0')];var n=c[x]={};return c[x].i=x,c[x].l=!1,c[x][Y('0x0')]={},t[x][Y('0x1')](n[Y('0x0')],n,n[Y('0x0')],e),n.l=!0,n[Y('0x0')]}e.m=t,e.c=c,e.d=function(x,n,t){e.o(x,n)||Object[Y('0x2')](x,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(x){var n=x&&x[Y('0x3')]?function(){return x[Y('0x4')]}:function(){return x};return e.d(n,'a',n),n},e.o=function(x,n){return Object[Y('0x5')][Y('0x6')][Y('0x1')](x,n)},e.p='',e(e.s=0)}([function(x,n){!function(t){var c={};function e(x){if(c[x])return c[x][Y('0x0')];var n=c[x]={};return c[x].i=x,c[x].l=!1,c[x][Y('0x0')]={},t[x][Y('0x1')](n[Y('0x0')],n,n[Y('0x0')],e),n.l=!0,n[Y('0x0')]}e.m=t,e.c=c,e.d=function(x,n,t){e.o(x,n)||Object[Y('0x2')](x,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(x){var n=x&&x[Y('0x3')]?function(){return x[Y('0x4')]}:function(){return x};return e.d(n,'a',n),n},e.o=function(x,n){return Object[Y('0x5')][Y('0x6')][Y('0x1')](x,n)},e.p='',e(e.s=16)}([function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x7')]=2423187,n[Y('0x8')]=2423167,n[Y('0x9')]=3,n[Y('0xa')]=1,n[Y('0xb')]=30,n[Y('0xc')]=true,n[Y('0xd')]={},n[Y('0xe')]="zfgloadednative",n[Y('0xf')]='//native.propellerclick.com/1?z=2423187&eid=',n[Y('0x10')]='//native.propellerclick.com/1?z=2423187&eid=',n[Y('0x11')]=2,n[Y('0x12')]=1e3*1550494818,n[Y('0x13')]='l764mjffjm',n[Y('0x14')]='gh7',n[Y('0x15')]='3rifthkgpzb',n[Y('0x16')]='um57frokK0ynh9vokJ5kigtg43Kmwjojw7eCi15ejqy9Ihrjgqqi1Bym548ge7Xl20t9wsnQxhf16k12L3t3oqc0d',n[Y('0x17')]='hwdJn8vL4akVam2C559cnIbkvYsmkOn8vPtkdCam2',n[Y('0x18')]='46o8mwtejt4',n[Y('0x19')]='_juhuk',n[Y('0x1a')]='_bvrcgrz'},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x1b')]=function(x,n){return'//'+x+'/'+n},n[Y('0x1c')]=function(){return[(0,c[Y('0x1e')])(e[Y('0x1f')][Y('0x20')],e[Y('0x21')][Y('0x20')]),(0,c[Y('0x1e')])(e[Y('0x22')][Y('0x20')],e[Y('0x21')][Y('0x20')])][Y('0x23')]('.')},n[Y('0x1d')]=function(){return[(0,c[Y('0x1e')])(e[Y('0x24')][Y('0x20')],e[Y('0x25')][Y('0x20')]),(0,c[Y('0x1e')])(e[Y('0x26')][Y('0x20')],e[Y('0x25')][Y('0x20')])][Y('0x23')]('.')};var c=t(3),e=t(17)},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x27')]=Y('0x28'),n[Y('0x29')]=1e4,n[Y('0x2a')]=Y('0x2b'),n[Y('0x2c')]=Y('0x2d'),n[Y('0x2e')]='|',n[Y('0x2f')]=0,n[Y('0x30')]=1,n[Y('0x31')]=2,n[Y('0x32')]=42},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x33')]=f,n[Y('0x34')]=i,n[Y('0x35')]=function(x,e){return x[Y('0x39')]('')[Y('0x3a')](function(x,n){var t=(e+1)*(n+1),c=(f(x)+t)%o;return i(c)})[Y('0x23')]('')},n[Y('0x36')]=function(x,e){return x[Y('0x39')]('')[Y('0x3a')](function(x,n){var t=e[n%(e[Y('0x3b')]-1)],c=(f(x)+f(t))%o;return i(c)})[Y('0x23')]('')},n[Y('0x1e')]=function(x,a){return x[Y('0x39')]('')[Y('0x3a')](function(x,n){var t=a[n%(a[Y('0x3b')]-1)],c=f(t),e=f(x),r=e-c,u=r<0?r+o:r;return i(u)})[Y('0x23')]('')};var c=48,e=57,r=e-c+1,u=97,a=122,o=a-u+1+r;function f(x){var n=x[Y('0x37')]()[Y('0x38')](0);return c<=n&&n<=e?n-c:u<=n&&n<=a?n-u+r:0}function i(x){return x<=9?String[Y('0x34')](x+c):x<=35?String[Y('0x34')](x+u-r):String[Y('0x34')](c)}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x3c')]=n[Y('0x3d')]=void 0;var c=t(18),e=typeof document!==Y('0x3e')?document[Y('0x3f')]:null,r=n[Y('0x3d')]=Y('0x40');n[Y('0x3c')]=Math[Y('0x41')]()[Y('0x37')](36)[Y('0x42')](2);e&&e[Y('0x54')](r,function x(t){e[Y('0x43')](r,x),[(0,c[Y('0x44')])(navigator[Y('0x45')]),(0,c[Y('0x46')])(window[Y('0x47')][Y('0x48')]),(0,c[Y('0x49')])(new Date),(0,c[Y('0x4a')])(window[Y('0x4b')][Y('0x4c')]),(0,c[Y('0x4d')])(navigator[Y('0x4e')]||navigator[Y('0x4f')])][Y('0x50')](function(n){var x=parseInt(10*Math[Y('0x41')](),10);setTimeout(function(){var x={};x.id=t[Y('0x51')],x[Y('0x52')]=n,window[Y('0x53')](x,'*')},x)})})},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x55')]=function(x){var n=document,t=n[Y('0x5b')],c=n[Y('0x5c')],e=window[Y('0x5d')]||t[Y('0x5e')]||c[Y('0x5e')],r=window[Y('0x5f')]||t[Y('0x60')]||c[Y('0x60')],u=t[Y('0x61')]||c[Y('0x61')]||0,a=t[Y('0x62')]||c[Y('0x62')]||0,o=x[Y('0x63')](),f=o[Y('0x64')]+(e-u),i=o[Y('0x65')]+(r-a),l={};return l[Y('0x64')]=f,l[Y('0x65')]=i,l},n[Y('0x56')]=function(x){var n=document[Y('0x66')](x);return Array[Y('0x5')][Y('0x42')][Y('0x1')](n)},n[Y('0x57')]=function x(n,t){if(!n)return null;if(n[Y('0x67')]===t)return n;return x(n[Y('0x68')],t)},n[Y('0x58')]=function(){var x=1===u[Y('0x11')]?Y('0x69'):'JS',n=Y('0x6a')+x+' '+e[Y('0x6b')][u[Y('0xe')]],t={};t[Y('0x6c')]=u[Y('0x15')],t[Y('0x6d')]=u[Y('0x13')],t[Y('0x26')]=u[Y('0x14')],t[Y('0x6e')]=u[Y('0x18')],t[Y('0x6f')]=u[Y('0x16')],t[Y('0x22')]=u[Y('0x17')],(0,c[Y('0x70')])(n,r[Y('0x27')],u[Y('0x7')],u[Y('0x12')],u[Y('0x8')],t)},n[Y('0x59')]=function(x){var n=e[Y('0x71')][u[Y('0xe')]];if(n)return(0,c[Y('0x72')])(n,u[Y('0x8')])||(0,c[Y('0x72')])(n,u[Y('0x7')]);return!!window[x]},n[Y('0x5a')]=function(){return!e[Y('0x71')][u[Y('0xe')]]};var c=t(19),e=t(6),r=t(2),u=t(0)},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x73')]=Y('0x74');var c=n[Y('0x75')]=Y('0x74'),e=(n[Y('0x76')]=Y('0x77'),n[Y('0x78')]=Y('0x79')),r=n[Y('0x7a')]=Y('0x7b'),u=n[Y('0x7c')]=Y('0x77'),a=n[Y('0x7d')]=Y('0x7e'),o=n[Y('0x7f')]=Y('0x80'),f=n[Y('0x6b')]={};f[c]=Y('0x81'),f[e]=Y('0x82'),f[r]=Y('0x83'),f[u]=Y('0x84'),f[a]=Y('0x85'),f[o]=Y('0x86');var i=n[Y('0x71')]={};i[c]=Y('0x87'),i[o]=Y('0x88')},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x89')]=750,n[Y('0x8a')]=Y('0x8b'),n[Y('0x8c')]=[Y('0x8d'),Y('0x8e'),Y('0x8f'),Y('0x90'),Y('0x91'),Y('0x92')],n[Y('0x93')]='x',n[Y('0x94')]=Y('0x95');var c=n[Y('0x96')]=Y('0x97'),e=n[Y('0x98')]=document[Y('0x99')](c),r=n[Y('0x9a')]=999999,u=n[Y('0x9b')]=Y('0x9c');n[Y('0x9d')]=Y('0x9e'),n[Y('0x9f')]=[Y('0x97'),Y('0xa0'),Y('0xa1'),Y('0xa2'),'p'],n[Y('0xa3')]=[Y('0xa4'),Y('0xa5'),Y('0xa6')],n[Y('0xa7')]=Y('0xa8'),n[Y('0xa9')]=Y('0xaa'),n[Y('0xab')]=!0,n[Y('0xac')]=!1,n[Y('0xad')]=Y('0xae'),n[Y('0xaf')]=Y('0xb0'),n[Y('0xb1')]=Y('0xb2'),n[Y('0xb3')]=Y('0xb4'),n[Y('0xb5')]=300;e[Y('0xb6')][Y('0xb7')]=r,e[Y('0xb6')][Y('0xb8')]=u},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0xb9')]=function(x){var n=m(l),t=btoa(v(x));return Y('0xe3')+(0,o[Y('0x1c')])()+'/'+n+Y('0xec')+t},n[Y('0xba')]=R,n[Y('0xbb')]=F,n[Y('0xbc')]=W,n[Y('0xbd')]=function(x,n,t,c){if(x=v(x),t&&t!==r[Y('0xf8')])return W(x,n,t,c);return function x(n,t,c){var e=n[Y('0xe8')]();if(!e)return new Promise(function(x,n){return n()});return U[e](t,c||Y('0xe9'))[Y('0xea')](function(x){return localStorage[Z]=e,x})[Y('0xeb')](function(){return x(n,t,c)})}((e=[localStorage[Z]][Y('0xe5')](Object[Y('0x25')](U)),e[Y('0xe6')](function(x,n){return x&&e[Y('0xe7')](x)===n})),x,n)[Y('0xea')](function(x){return x&&x[Y('0xf9')]?x:{status:200,response:x}});var e};var a=t(11),o=t(1),r=t(12),f=t(0),i=t(15),c=new RegExp(Y('0xbe'),'i'),e=new RegExp(Y('0xbf')),u=new RegExp('^/'),l=[Y('0xc0'),Y('0xc1'),Y('0xc2'),Y('0xc3'),Y('0xc4'),Y('0xc5'),Y('0xc6'),Y('0xc7'),Y('0xc8')],b=[Y('0xb6'),Y('0xc9'),Y('0xc3'),Y('0xca'),Y('0xcb'),Y('0xcc'),Y('0xcd')],d=[Y('0xce'),Y('0xcf'),Y('0xd0'),Y('0xd1'),Y('0xd2'),Y('0xd3'),Y('0xd4'),Y('0xd5'),Y('0xd6')],V=[Y('0xd7'),Y('0xd8'),Y('0xd9'),Y('0xda'),Y('0xdb'),Y('0xdc'),Y('0xdd'),Y('0xde')],Z=[Y('0xdf'),f[Y('0x7')][Y('0x37')](36)][Y('0x23')](''),U={};function m(x){return x[Math[Y('0xe0')](Math[Y('0x41')]()*x[Y('0x3b')])]}function v(x){return c[Y('0xe1')](x)?x:e[Y('0xe1')](x)?Y('0xe2')+x:u[Y('0xe1')](x)?Y('0xe3')+window[Y('0x4b')][Y('0xe4')]+x:window[Y('0x4b')][Y('0x4c')][Y('0x39')]('/')[Y('0x42')](0,-1)[Y('0xe5')](x)[Y('0x23')]('/')}function R(x,n){var t=Y('0xed'),c=m(b),e=Y('0xe3')+(0,o[Y('0x1c')])()+'/'+c+Y('0xee')+btoa(x);return(0,a[Y('0xef')])(e,n)[Y('0xea')](function(x){return(0,i[Y('0xf0')])(f[Y('0x7')],t),x})[Y('0xeb')](function(x){throw(0,i[Y('0xf1')])(f[Y('0x7')],t,e),x})}function F(x,n){var t=Y('0xf2'),c=m(d),e=Y('0xe3')+(0,o[Y('0x1c')])()+'/'+c+Y('0xf3')+btoa(x);return(0,a[Y('0xf4')])(e,n)[Y('0xea')](function(x){return(0,i[Y('0xf0')])(f[Y('0x7')],t),x})[Y('0xeb')](function(x){throw(0,i[Y('0xf1')])(f[Y('0x7')],t,e),x})}function W(x,n,t,c){var e=Y('0xf5'),r=m(V),u=Y('0xe3')+(0,o[Y('0x1c')])()+'/'+r+Y('0xf6');return(0,a[Y('0xf7')])(u,x,n,t,c)[Y('0xea')](function(x){return(0,i[Y('0xf0')])(f[Y('0x7')],e),x})[Y('0xeb')](function(x){throw(0,i[Y('0xf1')])(f[Y('0x7')],e,u),x})}U.c=R,U.p=F,U.x=W},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0xfa')]=void 0,n[Y('0xfb')]=function(c,e,r){var u=c[Y('0xff')][Y('0x39')](o)[Y('0xe6')](function(x){return!o[Y('0xe1')](x)}),a=0;return c[Y('0x20')]=u[a],c[Y('0x3b')]=u[Y('0x3b')],function(x){var n=x&&x[Y('0xd7')]&&x[Y('0xd7')].id,t=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x52')];if(n===e)for(;t--;)a=(a+=r)>=u[Y('0x3b')]?0:a,c[Y('0x20')]=u[a]}},n[Y('0xfc')]=function(x){var n=new Event(e[Y('0x3d')]);n[Y('0x51')]=x,r[Y('0x100')](n)},n[Y('0xfd')]=function(t,x){return Array[Y('0x101')](null,{length:x})[Y('0x3a')](function(x,n){return(0,c[Y('0x35')])(t,n)})[Y('0x23')]('!')};var c=t(3),e=t(4),o=n[Y('0xfa')]=new RegExp(Y('0xfe'),''),r=(typeof document!==Y('0x3e')?document:{currentScript:null})[Y('0x3f')]},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x4')]=function(x){try{return x[Y('0x39')]('/')[2][Y('0x39')]('.')[Y('0x42')](-2)[Y('0x23')]('.')[Y('0x102')]()}catch(x){return''}}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0xef')]=function(x,u){return new(o[Y('0x4')])(function(c,e){var r=document[Y('0x99')](a[Y('0xad')]);r[Y('0x4c')]=x,r[Y('0x10a')]=a[Y('0xaf')],r[Y('0x10b')]=a[Y('0xb3')],r[Y('0x10c')]=a[Y('0xb1')],document[Y('0x10d')][Y('0x10e')](r,document[Y('0x10d')][Y('0x10f')]),r[Y('0x110')]=function(){try{var x=(n=r[Y('0x4c')],((t=Array[Y('0x5')][Y('0x42')][Y('0x1')](document[Y('0x103')])[Y('0xe6')](function(x){return x[Y('0x4c')]===n})[Y('0x104')]()[Y('0x105')])[0][Y('0x106')][Y('0x107')](Y('0x108'))?t[0][Y('0xb6')][Y('0x109')]:t[2][Y('0xb6')][Y('0x109')])[Y('0x42')](1,-1));r[Y('0x68')][Y('0x111')](r),u===d[Y('0x112')]?c(Z(x)):c(V(x))}catch(x){e()}var n,t},r[Y('0x113')]=function(){r[Y('0x68')][Y('0x111')](r),e()}})},n[Y('0xf4')]=function(n,b){return new(o[Y('0x4')])(function(i,x){var l=new Image;l[Y('0x10c')]=a[Y('0xb1')],l[Y('0x114')]=n,l[Y('0x110')]=function(){var x=document[Y('0x99')](Y('0x115'));x[Y('0x116')]=l[Y('0x116')],x[Y('0x48')]=l[Y('0x48')];var n=x[Y('0x117')]('2d');n[Y('0x118')](l,0,0);for(var t=n[Y('0x119')](0,0,l[Y('0x116')],l[Y('0x48')]),c=t[Y('0xd7')],e=c[Y('0x42')](0,12)[Y('0xe6')](function(x,n){return(n+1)%4})[Y('0x11a')]()[Y('0x11b')](function(x,n,t){return x+n*Math[Y('0x11c')](256,t)},0),r=[],u=12;u<c[Y('0x3b')];u++)if((u+1)%4){var a=c[u];(b===d[Y('0x112')]||32<=a)&&r[Y('0x11d')](String[Y('0x34')](a))}var o=btoa(r[Y('0x23')]('')[Y('0x11e')](0,e)),f=b===d[Y('0x112')]?Z(o):V(o);return i(f)},l[Y('0x113')]=function(){return x()}})},n[Y('0xf7')]=function(x,e){var r=2<arguments[Y('0x3b')]&&void 0!==arguments[2]?arguments[2]:d[Y('0x11f')],u=3<arguments[Y('0x3b')]&&void 0!==arguments[3]?arguments[3]:d[Y('0xf8')],a=4<arguments[Y('0x3b')]&&void 0!==arguments[4]?arguments[4]:{};return new(o[Y('0x4')])(function(n,t){var c=new XMLHttpRequest;c[Y('0x120')](u,x),c[Y('0x121')]=r,c[Y('0x122')](d[Y('0x123')],btoa(encodeURI(e))),c[Y('0x110')]=function(){var x={};x[Y('0x124')]=c[Y('0x124')],x[Y('0xf9')]=r===d[Y('0x11f')]?JSON[Y('0x125')](c[Y('0xf9')]):c[Y('0xf9')],0<=[200,204][Y('0xe7')](c[Y('0x124')])?n(x):t(new Error(Y('0x126')+c[Y('0x124')]+' '+c[Y('0x127')]+Y('0x128')+e))},c[Y('0x113')]=function(){t(new Error(Y('0x126')+c[Y('0x124')]+' '+c[Y('0x127')]+Y('0x128')+e))},u===d[Y('0x129')]?(c[Y('0x122')](d[Y('0x12a')],d[Y('0x12b')]),c[Y('0x12c')](JSON[Y('0x125')](a))):c[Y('0x12c')]()})};var c,a=t(7),d=t(12),e=t(13),o=(c=e)&&c[Y('0x3')]?c:{default:c};function V(x){return decodeURIComponent(atob(x)[Y('0x39')]('')[Y('0x3a')](function(x){return'%'+('00'+x[Y('0x38')](0)[Y('0x37')](16))[Y('0x42')](-2)})[Y('0x23')](''))}function Z(x){var t=atob(x),n=new ArrayBuffer(t[Y('0x3b')]);return new Uint8Array(n)[Y('0x3a')](function(x,n){return t[Y('0x38')](n)})}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x123')]=Y('0x12d'),n[Y('0x12a')]=Y('0x12e'),n[Y('0x12b')]=Y('0x12f'),n[Y('0x11f')]=Y('0x130'),n[Y('0x112')]=Y('0x131'),n[Y('0xf8')]=Y('0x132'),n[Y('0x129')]=Y('0x133')},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});var c,e=t(27),r=(c=e)&&c[Y('0x3')]?c:{default:c};var u=window[Y('0x134')]||r[Y('0x4')];n[Y('0x4')]=u},function(x,n){var t;t=function(){return this}();try{t=t||Function(Y('0x135'))()||(0,eval)(Y('0x136'))}catch(x){typeof window===Y('0x137')&&(t=window)}x[Y('0x0')]=t},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});var F=function(x,n){if(Array[Y('0x13c')](x))return x;if(Symbol[Y('0x138')]in Object(x))return function(x,n){var t=[],c=!0,e=!1,r=void 0;try{for(var u,a=x[Symbol[Y('0x138')]]();!(c=(u=a[Y('0x139')]())[Y('0x13a')])&&(t[Y('0x11d')](u[Y('0x52')]),!n||t[Y('0x3b')]!==n);c=!0);}catch(x){e=!0,r=x}finally{try{!c&&a[Y('0x13b')]&&a[Y('0x13b')]()}finally{if(e)throw r}}return t}(x,n);throw new TypeError(Y('0x13d'))};n[Y('0xf0')]=function(x,n){var t=T(x,n),c=F(t,3),e=c[0],r=c[1],u=c[2],a=parseInt(localStorage[u],10)||0;localStorage[u]=a+1,localStorage[e]=(new Date)[Y('0x145')](),localStorage[r]=''},n[Y('0xf1')]=function(x,n,t){var c=T(x,n),e=F(c,3),r=e[0],u=e[1],a=e[2];if(localStorage[r]&&!localStorage[u]){var o=parseInt(localStorage[a],10)||0,f=parseInt(localStorage[r],10),i=(new Date)[Y('0x145')](),l=i-f,b=document,d=b[Y('0x146')],V=window[Y('0x4b')][Y('0x4c')];localStorage[u]=i,localStorage[a]=0;var Z={};Z[Y('0x147')]=x,Z[Y('0x146')]=d,Z[Y('0x148')]=l,Z[Y('0x149')]=t,Z[Y('0x14a')]=i,Z[Y('0x14b')]=function(){var x=localStorage[X];if(x)return x;var n=Math[Y('0x41')]()[Y('0x37')](36)[Y('0x42')](2);return localStorage[X]=n}(),Z[Y('0x14c')]=V,Z[Y('0x14d')]=f,Z[Y('0x14e')]=o,Z[Y('0x14f')]=navigator.userAgent,Z[Y('0x150')]=window.screen.width,Z[Y('0x151')]=window.screen.height,Z[Y('0x152')]=n||h,Z[Y('0x153')]=(new Date).getTimezoneOffset(),Z[Y('0x154')]=(0,W.default)(t),Z[Y('0x155')]=(0,W.default)(d),Z[Y('0x156')]=(0,W.default)(V),Z[Y('0x157')]=navigator.language||navigator.userLanguage,U=Z,m='//'+(0,w[Y('0x1c')])()+Y('0x144'),v=Object[Y('0x25')](U)[Y('0x3a')](function(x){var n=encodeURIComponent(U[x]);return[x,n][Y('0x23')]('=')})[Y('0x23')]('&'),(R=new XMLHttpRequest)[Y('0x120')](Y('0x133'),m,!0),R[Y('0x122')](s,G),R[Y('0x12c')](v)}var U,m,v,R};var c,e=t(10),W=(c=e)&&c[Y('0x3')]?c:{default:c},w=t(1);var s=Y('0x12e'),G=Y('0x13e'),X=Y('0x13f'),r='f',u='s',a='u',h=Y('0x140'),o={};function T(x,n){var t=o[n]||a,c=parseInt(x,10)[Y('0x37')](36);return[[X,c][Y('0x23')](t),[X,c,r][Y('0x23')](t),[X,c,u][Y('0x23')](t)]}o[Y('0x141')]='s',o[Y('0x142')]='c',o[Y('0x143')]='j',o[Y('0xed')]='y',o[Y('0xf2')]='p',o[Y('0xf5')]='x'},function(x,n,t){'use strict';var c=t(1),e=t(4),r=t(5),u=t(20),a=t(6),o=t(2),f=t(7),i=t(9),l=Z(t(26)),b=t(0),d=Z(t(31)),V=t(8);function Z(x){return x&&x[Y('0x3')]?x:{default:x}}(0,r[Y('0x58')])();var U=[];function m(x){window[o[Y('0x2a')]]||b[Y('0xe')]!==a[Y('0x7f')]||(window[o[Y('0x2a')]]=V[Y('0xbd')]),(0,d[Y('0x4')])(x)[Y('0xeb')](function(){if(b[Y('0xe')]===a[Y('0x75')]){var x=(0,c[Y('0x1b')])((0,c[Y('0x1d')])(),b[Y('0x7')]);(0,u[Y('0x158')])(b[Y('0xc')],Y('0x159'),x)}})}function v(x){var n=x||b[Y('0xe')];if((0,r[Y('0x5a')])()){if(-1<U[Y('0xe7')](n))return null;U[Y('0x11d')](n)}return(0,r[Y('0x59')])(n)?null:setTimeout(m,f[Y('0xb5')],n)}window[b[Y('0x19')]]=v,window[b[Y('0x1a')]]=v,setTimeout(v,o[Y('0x29')]),(0,i[Y('0xfc')])(e[Y('0x3c')]),(0,l[Y('0x4')])()},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x22')]=n[Y('0x26')]=n[Y('0x21')]=n[Y('0x25')]=n[Y('0x1f')]=n[Y('0x24')]=void 0;var c=t(4),e=t(2),r=t(9),u=t(0),a=n[Y('0x24')]={},o=n[Y('0x1f')]={},f=n[Y('0x25')]={},i=n[Y('0x21')]={},l=n[Y('0x26')]={},b=n[Y('0x22')]={};a[Y('0xff')]=u[Y('0x13')],o[Y('0xff')]=u[Y('0x16')],window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(a,c[Y('0x3c')],1)),window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(o,c[Y('0x3c')],1));var d=a[Y('0x3b')]*e[Y('0x32')],V=o[Y('0x3b')]*e[Y('0x32')];f[Y('0xff')]=(0,r[Y('0xfd')])(u[Y('0x15')],d),i[Y('0xff')]=(0,r[Y('0xfd')])(u[Y('0x18')],V),l[Y('0xff')]=u[Y('0x14')],b[Y('0xff')]=u[Y('0x17')],window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(i,c[Y('0x3c')],e[Y('0x32')])),window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(b,c[Y('0x3c')],1)),window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(f,c[Y('0x3c')],e[Y('0x32')])),window[Y('0x54')](Y('0x15a'),(0,r[Y('0xfb')])(l,c[Y('0x3c')],1))},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x44')]=function(x){{if(e[Y('0xe1')](x))return 3;if(r[Y('0xe1')](x))return 2}return 1},n[Y('0x46')]=function(x){return i(a,x)},n[Y('0x49')]=function(x){return i(o,x[Y('0x162')]())},n[Y('0x4d')]=function(x){return i(f,x)},n[Y('0x4a')]=function(x){return x[Y('0x39')]('/')[Y('0x42')](1)[Y('0xe6')](function(x){return x})[Y('0xe8')]()[Y('0x39')]('.')[Y('0x42')](-2)[Y('0x23')]('.')[Y('0x102')]()[Y('0x39')]('')[Y('0x11b')](function(x,n){return x+(0,c[Y('0x33')])(n)},0)%6+1};var c=t(3),e=new RegExp(Y('0x15b'),'i'),r=new RegExp(Y('0x15c'),'i'),u=2,a=[[768],[1024,568,360],[1080,736],[900,864,812],[667,800]],o=[[240],[-60],[-120],[-480,-180],[300,360,-240,-720]],f=[[Y('0x15d')],[Y('0x15e')],[Y('0x15f')],[Y('0x160')],[Y('0x161')]];function i(x,n){try{var t=x[Y('0xe6')](function(x){return-1<x[Y('0xe7')](n)})[Y('0xe8')]();return x[Y('0xe7')](t)+u}catch(x){return 0}}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x70')]=function(x,n,t){var c=3<arguments[Y('0x3b')]&&void 0!==arguments[3]?arguments[3]:0,e=4<arguments[Y('0x3b')]&&void 0!==arguments[4]?arguments[4]:0,r=arguments[5],u=void 0;try{u=f[Y('0x114')][Y('0x39')]('/')[2]||document[Y('0x167')][Y('0x39')]('/')[2]}catch(x){}try{var a=window[Y('0x166')][Y('0xe6')](function(x){return x[Y('0x168')]===t&&x[Y('0x169')]})[Y('0xe8')](),o={};o[Y('0x16a')]=x,o[Y('0x16b')]=n,o[Y('0x168')]=t,o[Y('0x169')]=a?a[Y('0x169')]:e,o[Y('0x16c')]=a?a[Y('0x16c')]:u,o[Y('0x16d')]=c,(o[Y('0x16e')]=r)&&r[Y('0x16f')]&&(o[Y('0x16f')]=r[Y('0x16f')]),l[Y('0x11d')](o),i[Y('0x50')](function(x){return x[Y('0x166')][Y('0x11d')](o)})}catch(x){}},n[Y('0x163')]=function(x){c[Y('0x11d')](x),window[x]=!0},n[Y('0x164')]=u,n[Y('0x72')]=function(c,e){return 0<window[Y('0x166')][Y('0xe6')](function(x){var n=x[Y('0x168')]===e,t=x[Y('0x16a')]===c;return n&&t})[Y('0x3b')]},n[Y('0x165')]=function(){try{u(),e(),e=function(){}}catch(x){}};var f=document[Y('0x3f')],i=[window],c=[],l=[],e=function(){};f&&f[Y('0x113')]&&(e=f[Y('0x113')]);try{for(var r=i[Y('0x42')](-1)[Y('0x104')]();r&&r!==r[Y('0x64')]&&r[Y('0x64')][Y('0x47')][Y('0x48')];)i[Y('0x11d')](r[Y('0x64')]),r=r[Y('0x64')]}catch(x){}function u(){l[Y('0x50')](function(c){i[Y('0x50')](function(x){x[Y('0x166')]=x[Y('0x166')][Y('0xe6')](function(x){var n=x[Y('0x16a')]!==c[Y('0x16a')],t=x[Y('0x168')]!==c[Y('0x168')];return n||t})})}),c[Y('0x50')](function(x){window[x]=!1}),c=[],l=[]}i[Y('0x50')](function(x){x[Y('0x166')]||(x[Y('0x166')]=[])})},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x170')]=d,n[Y('0x171')]=V,n[Y('0x172')]=Z,n[Y('0x158')]=function(x,n,t){var c=(new Date)[Y('0x145')]();(0,i[Y('0x180')])(c)&&d();var r=function(x){var n=m(o[Y('0x9f')]),t=m(o[Y('0xa3')]),c=document[Y('0x99')](n),e=t[Y('0x179')]('%s',x);c[Y('0x17a')]=e;var r=c[Y('0x17b')]('a')[0];r[Y('0x10a')]=o[Y('0x9d')],r[Y('0xb6')][Y('0x176')]=Y('0x17c'),r[Y('0xb6')][Y('0xb7')]=U(9999999,99999999),r[Y('0xb6')][Y('0x116')]=U(98,101)+'%',r[Y('0xb6')][Y('0x48')]=U(98,101)+'%',r[Y('0xb6')][Y('0x64')]=U(0,4)+'px',r[Y('0xb6')][Y('0x17d')]=U(0,4)+'px',r[Y('0xb6')][Y('0x65')]=U(0,4)+'px',r[Y('0xb6')][Y('0x17e')]=U(0,4)+'px';var u={};return u[Y('0x17f')]=c,u[Y('0xae')]=r,u}(t);document[Y('0x54')](o[Y('0xa7')],function(x){(0,i[Y('0x180')])()&&(x[Y('0x181')](),x[Y('0x182')](),V(),document[Y('0x5c')]&&document[Y('0x5c')][Y('0x178')](r[Y('0x17f')]))},o[Y('0xab')]),r[Y('0xae')][Y('0x54')](o[Y('0xa9')],function(x){var n=''+r[Y('0xae')][Y('0x4c')]+f[Y('0x183')],t=l[Y('0xd')]&&l[Y('0xd')][Y('0x184')],c=l[Y('0xd')]&&l[Y('0xd')][Y('0xae')],e=l[Y('0xd')]&&l[Y('0xd')][Y('0x185')];(0,i[Y('0x186')])(),x[Y('0x181')](),x[Y('0x182')](),x[Y('0x187')](),(0,u[Y('0x4')])(n,t,c,e,!0),r[Y('0x17f')][Y('0x188')]()},o[Y('0xab')])};var c,e=t(21),u=(c=e)&&c[Y('0x3')]?c:{default:c},a=t(5),o=t(7),f=t(23),i=t(24),l=t(0);var r=[],b=void 0;function d(){V();var x=(0,a[Y('0x56')])(o[Y('0x8a')])[Y('0xe6')](function(x){var n=x[Y('0x173')],t=x[Y('0x174')];return!o[Y('0x8c')][Y('0x175')](function(x){return[n,t][Y('0x23')](o[Y('0x93')])===x})});r=x[Y('0x3a')](function(x){var n=(0,a[Y('0x55')])(x),t=n[Y('0x64')],c=n[Y('0x65')],e=n[Y('0x173')],r=n[Y('0x174')],u={};return u[Y('0x176')]=o[Y('0x94')],u[Y('0x64')]=t+'px',u[Y('0x65')]=c+'px',u[Y('0x116')]=e+'px',u[Y('0x48')]=r+'px',Z(u)}),b=setTimeout(d,o[Y('0x89')])}function V(){r=r[Y('0xe6')](function(x){return x[Y('0x68')]&&x[Y('0x68')][Y('0x111')](x),!1}),b&&clearTimeout(b)}function Z(n){var t=o[Y('0x98')][Y('0x177')](o[Y('0xac')]);return Object[Y('0x25')](n)[Y('0x50')](function(x){t[Y('0xb6')][x]=n[x]}),document[Y('0x5c')][Y('0x178')](t),t}function U(x,n){var t=n-x,c=Math[Y('0x41')]()*t+x;return Math[Y('0xe0')](c)}function m(x){return x[U(0,x[Y('0x3b')])]}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x4')]=function(n,x,t,c,e){var r=t||(0,o[Y('0x4')])(c),u=Math[Y('0x41')]()[Y('0x37')](36)[Y('0x42')](2),a=window[Y('0x120')](r,u);return setTimeout(function(){try{if(a[Y('0x189')])throw new Error}catch(x){return}var x=window[Y('0x120')](n,u);if(e)try{x[Y('0x18a')]=null}catch(x){}},x||500),a};var c,e=t(22),o=(c=e)&&c[Y('0x3')]?c:{default:c}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x4')]=function(u){var a=(0,o[Y('0x4')])(window[Y('0x4b')][Y('0x4c')]),x=document[Y('0x66')](Y('0x18e')),n=[][Y('0x42')][Y('0x1')](x)[Y('0xe6')](function(x){var n=(0,o[Y('0x4')])(x[Y('0x114')]),t=n[Y('0x102')]()===a[Y('0x102')](),c=-1<x[Y('0x114')][Y('0xe7')]('?'),e=t||!u,r=i[Y('0xe1')](x[Y('0x114')]);return e&&!c&&!r});n[Y('0x18f')](function(x,n){try{var t=x[Y('0x63')](),c=n[Y('0x63')](),e=t[Y('0x116')]*t[Y('0x48')],r=c[Y('0x116')]*c[Y('0x48')];return e===r?0:r<e?-1:1}catch(x){return 0}});var t=n[Y('0xe6')](function(x){var n=[][Y('0x42')][Y('0x1')](x[Y('0x190')])[Y('0x23')](' '),t=f[Y('0xe1')](x.id),c=f[Y('0xe1')](x[Y('0x114')]),e=f[Y('0xe1')](n);return t||c||e}),c=0<t[Y('0x3b')]?t[0][Y('0x114')]:'',e=0<n[Y('0x3b')]?n[0][Y('0x114')]:'';return c||e||r};var c,e=t(10),o=(c=e)&&c[Y('0x3')]?c:{default:c};var r=Y('0x18b'),f=new RegExp(Y('0x18c'),'i'),i=new RegExp(Y('0x18d'),'i')},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x183')]='?q'},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});var a=function(x,n){if(Array[Y('0x13c')](x))return x;if(Symbol[Y('0x138')]in Object(x))return function(x,n){var t=[],c=!0,e=!1,r=void 0;try{for(var u,a=x[Symbol[Y('0x138')]]();!(c=(u=a[Y('0x139')]())[Y('0x13a')])&&(t[Y('0x11d')](u[Y('0x52')]),!n||t[Y('0x3b')]!==n);c=!0);}catch(x){e=!0,r=x}finally{try{!c&&a[Y('0x13b')]&&a[Y('0x13b')]()}finally{if(e)throw r}}return t}(x,n);throw new TypeError(Y('0x13d'))};n[Y('0x180')]=function(){var x=l(),n=a(x,3),t=n[0],c=n[1],e=n[2];if(t+f<(new Date)[Y('0x145')]())return b((new Date)[Y('0x145')](),0,0),0<o[Y('0x9')];var r=e<o[Y('0x9')],u=c+i<(new Date)[Y('0x145')]();if(r&&u)return!0;return!1},n[Y('0x186')]=function(){var x=l(),n=a(x,3),t=n[0],c=n[2];b(t,(new Date)[Y('0x145')](),c+1)};var c=t(25),r=t(2),o=t(0),f=o[Y('0xa')]*c[Y('0x191')],i=o[Y('0xb')]*c[Y('0x192')];function l(){var x=(localStorage[r[Y('0x2c')]]||'')[Y('0x39')](r[Y('0x2e')]),n=a(x,3),t=n[0],c=n[1],e=n[2];return[parseInt(t,10)||(new Date)[Y('0x145')](),parseInt(c,10)||0,parseInt(e,10)||0]}function b(x,n,t){var c=[x,n,t][Y('0x23')](r[Y('0x2e')]);localStorage[r[Y('0x2c')]]=c}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});n[Y('0x192')]=1e3,n[Y('0x191')]=36e5},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x4')]=function(){try{(c=new BroadcastChannel(i))[Y('0x54')](Y('0x15a'),e)}catch(x){}window[Y('0x54')](Y('0x15a'),e)};var o=t(8),f=t(0),i=Y('0x193'),l=Y('0x194'),b=Y('0x195'),d=Y('0x196'),V=Y('0x197'),Z=Y('0x198'),U=Y('0xf9'),c=void 0;function e(x){var t=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x199')],n=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x10b')],c=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x19a')],e=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x19b')],r=x&&x[Y('0xd7')]&&x[Y('0xd7')][Y('0x19c')],u=r===f[Y('0x7')],a={};c===i&&(n===l?(a[Y('0x10b')]=b,a[Y('0x19d')]=f[Y('0xe')],a[Y('0x19c')]=f[Y('0x7')],a[Y('0x19e')]=f[Y('0x8')]):n!==d||!e||r&&!u||(a[Y('0x10b')]=V,a[Y('0x19b')]=e,(0,o[Y('0xbd')])(t)[Y('0xea')](function(x){var n={};n[Y('0x10b')]=U,n[Y('0x199')]=t,n[Y('0x19b')]=e,n[Y('0xd7')]=x,m(n)})[Y('0xeb')](function(x){var n={};n[Y('0x10b')]=Z,n[Y('0x199')]=t,n[Y('0x19b')]=e,n[Y('0xd5')]=x&&x[Y('0x15a')],m(n)})),a[Y('0x10b')]&&m(a))}function m(x){x[Y('0x19a')]=i,c&&c[Y('0x53')](x),window[Y('0x53')](x,'*')}},function(x,n,t){(function(r){!function(i,l){function b(x,n){return(typeof n)[0]==x}function d(o,f){return(f=function t(c,e,r,u,a,x){if(u=t.q,c!=b)return d(function(x,n){u[Y('0x11d')]({p:this,r:x,j:n,1:c,0:e})});if(r&&b(i,r)|b(l,r))try{a=r[Y('0xea')]}catch(x){e=0,r=x}if(b(i,a))try{a[Y('0x1')](r,n(1),e=n(0))}catch(x){e(x)}else for(f=function(t,x){return b(i,t=e?t:x)?d(function(x,n){V(this,x,n,r,t)}):o},x=0;x<u[Y('0x3b')];)a=u[x++],b(i,c=a[e])?V(a.p,a.r,a.j,r,c):(e?a.r:a.j)(r);function n(n){return function(x){a&&(a=0,t(b,n,x))}}}).q=[],o[Y('0x1')](o={},function(x){f(b,1,x)},function(x){f(b,0,x)}),o[Y('0xea')]=function(x,n){return f(x,n)},o[Y('0xeb')]=function(x){return f(0,x)},o}function V(x,n,t,c,e){r(function(){try{c=e(c),e=c&&b(l,c)|b(i,c)&&c[Y('0xea')],b(i,e)?c==x?t(TypeError()):e[Y('0x1')](c,n,t):n(c)}catch(x){t(x)}})}function u(n){return d(function(x){x(n)})}(x[Y('0x0')]=d)[Y('0x19f')]=u,d[Y('0x1a0')]=function(t){return d(function(x,n){n(t)})},d[Y('0x1a1')]=function(x){return d(function(t,c,e,r){r=[],e=x[Y('0x3b')]||t(r),x[Y('0x3a')](function(x,n){u(x)[Y('0xea')](function(x){r[n]=x,--e||t(r)},c)})})},d[Y('0x1a2')]=function(x){return d(function(n,t){x[Y('0x3a')](function(x){u(x)[Y('0xea')](n,t)})})}}('f','o')})[Y('0x1')](n,t(28)[Y('0x1a3')])},function(x,e,r){(function(x){var n=typeof x!==Y('0x3e')&&x||typeof self!==Y('0x3e')&&self||window,t=Function[Y('0x5')][Y('0x101')];function c(x,n){this[Y('0x1a9')]=x,this[Y('0x1aa')]=n}e[Y('0x1a4')]=function(){return new c(t[Y('0x1')](setTimeout,n,arguments),clearTimeout)},e[Y('0x1a5')]=function(){return new c(t[Y('0x1')](setInterval,n,arguments),clearInterval)},e[Y('0x1a6')]=e[Y('0x1a7')]=function(x){x&&x[Y('0x1a8')]()},c[Y('0x5')][Y('0x1ab')]=c[Y('0x5')][Y('0x1ac')]=function(){},c[Y('0x5')][Y('0x1a8')]=function(){this[Y('0x1aa')][Y('0x1')](n,this[Y('0x1a9')])},e[Y('0x1ad')]=function(x,n){clearTimeout(x[Y('0x1ae')]),x[Y('0x1af')]=n},e[Y('0x1b0')]=function(x){clearTimeout(x[Y('0x1ae')]),x[Y('0x1af')]=-1},e[Y('0x1b1')]=e[Y('0x1b2')]=function(x){clearTimeout(x[Y('0x1ae')]);var n=x[Y('0x1af')];0<=n&&(x[Y('0x1ae')]=setTimeout(function(){x[Y('0x1b3')]&&x[Y('0x1b3')]()},n))},r(29),e[Y('0x1a3')]=typeof self!==Y('0x3e')&&self[Y('0x1a3')]||typeof x!==Y('0x3e')&&x[Y('0x1a3')]||this&&this[Y('0x1a3')],e[Y('0x1b4')]=typeof self!==Y('0x3e')&&self[Y('0x1b4')]||typeof x!==Y('0x3e')&&x[Y('0x1b4')]||this&&this[Y('0x1b4')]})[Y('0x1')](e,r(14))},function(x,n,t){(function(x,V){!function(t,c){'use strict';if(!t[Y('0x1a3')]){var e,r,n,u,x,a=1,o={},f=!1,i=t[Y('0x1b5')],l=Object[Y('0x1c2')]&&Object[Y('0x1c2')](t);l=l&&l[Y('0x1a4')]?l:t,{}[Y('0x37')][Y('0x1')](t[Y('0x1c3')])===Y('0x1c4')?e=function(x){V[Y('0x1b9')](function(){d(x)})}:!function(){if(t[Y('0x53')]&&!t[Y('0x1ba')]){var x=!0,n=t[Y('0x1bb')];return t[Y('0x1bb')]=function(){x=!1},t[Y('0x53')]('','*'),t[Y('0x1bb')]=n,x}}()?t[Y('0x1c5')]?((n=new MessageChannel)[Y('0x1bf')][Y('0x1bb')]=function(x){d(x[Y('0xd7')])},e=function(x){n[Y('0x1c0')][Y('0x53')](x)}):i&&Y('0x1c1')in i[Y('0x99')](Y('0xc0'))?(r=i[Y('0x5b')],e=function(x){var n=i[Y('0x99')](Y('0xc0'));n[Y('0x1c1')]=function(){d(x),n[Y('0x1c1')]=null,r[Y('0x111')](n),n=null},r[Y('0x178')](n)}):e=function(x){setTimeout(d,0,x)}:(u=Y('0x1bc')+Math[Y('0x41')]()+'$',x=function(x){x[Y('0x1bd')]===t&&typeof x[Y('0xd7')]===Y('0x6d')&&0===x[Y('0xd7')][Y('0xe7')](u)&&d(+x[Y('0xd7')][Y('0x42')](u[Y('0x3b')]))},t[Y('0x54')]?t[Y('0x54')](Y('0x15a'),x,!1):t[Y('0x1be')](Y('0x1bb'),x),e=function(x){t[Y('0x53')](u+x,'*')}),l[Y('0x1a3')]=function(x){typeof x!==Y('0x1b6')&&(x=new Function(''+x));for(var n=new Array(arguments[Y('0x3b')]-1),t=0;t<n[Y('0x3b')];t++)n[t]=arguments[t+1];var c={};return c[Y('0x1b7')]=x,c[Y('0x1b8')]=n,o[a]=c,e(a),a++},l[Y('0x1b4')]=b}function b(x){delete o[x]}function d(x){if(f)setTimeout(d,0,x);else{var n=o[x];if(n){f=!0;try{!function(x){var n=x[Y('0x1b7')],t=x[Y('0x1b8')];switch(t[Y('0x3b')]){case 0:n();break;case 1:n(t[0]);break;case 2:n(t[0],t[1]);break;case 3:n(t[0],t[1],t[2]);break;default:n[Y('0x101')](c,t)}}(n)}finally{b(x),f=!1}}}}}(typeof self===Y('0x3e')?typeof x===Y('0x3e')?this:x:self)})[Y('0x1')](n,t(14),t(30))},function(x,n){var t,c,e=x[Y('0x0')]={};function r(){throw new Error(Y('0x1c6'))}function u(){throw new Error(Y('0x1c7'))}function a(n){if(t===setTimeout)return setTimeout(n,0);if((t===r||!t)&&setTimeout)return t=setTimeout,setTimeout(n,0);try{return t(n,0)}catch(x){try{return t[Y('0x1')](null,n,0)}catch(x){return t[Y('0x1')](this,n,0)}}}!function(){try{t=typeof setTimeout===Y('0x1b6')?setTimeout:r}catch(x){t=r}try{c=typeof clearTimeout===Y('0x1b6')?clearTimeout:u}catch(x){c=u}}();var o,f=[],i=!1,l=-1;function b(){i&&o&&(i=!1,o[Y('0x3b')]?f=o[Y('0xe5')](f):l=-1,f[Y('0x3b')]&&d())}function d(){if(!i){var x=a(b);i=!0;for(var n=f[Y('0x3b')];n;){for(o=f,f=[];++l<n;)o&&o[l][Y('0x1c8')]();l=-1,n=f[Y('0x3b')]}o=null,i=!1,function(n){if(c===clearTimeout)return clearTimeout(n);if((c===u||!c)&&clearTimeout)return c=clearTimeout,clearTimeout(n);try{c(n)}catch(x){try{return c[Y('0x1')](null,n)}catch(x){return c[Y('0x1')](this,n)}}}(x)}}function V(x,n){this[Y('0x1c9')]=x,this[Y('0x1ca')]=n}function Z(){}e[Y('0x1b9')]=function(x){var n=new Array(arguments[Y('0x3b')]-1);if(1<arguments[Y('0x3b')])for(var t=1;t<arguments[Y('0x3b')];t++)n[t-1]=arguments[t];f[Y('0x11d')](new V(x,n)),1!==f[Y('0x3b')]||i||a(d)},V[Y('0x5')][Y('0x1c8')]=function(){this[Y('0x1c9')][Y('0x101')](null,this[Y('0x1ca')])},e[Y('0x1cb')]=Y('0x1cc'),e[Y('0x1cc')]=!0,e[Y('0x1cd')]={},e[Y('0x1ce')]=[],e[Y('0x16b')]='',e[Y('0x1cf')]={},e.on=Z,e[Y('0x1d0')]=Z,e[Y('0x1d1')]=Z,e[Y('0x1d2')]=Z,e[Y('0x1d3')]=Z,e[Y('0x1d4')]=Z,e[Y('0x1d5')]=Z,e[Y('0x1d6')]=Z,e[Y('0x1d7')]=Z,e[Y('0x1d8')]=function(x){return[]},e[Y('0x1d9')]=function(x){throw new Error(Y('0x1da'))},e[Y('0x1db')]=function(){return'/'},e[Y('0x1dc')]=function(x){throw new Error(Y('0x1dd'))},e[Y('0x1de')]=function(){return 0}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0}),n[Y('0x4')]=function(n){return(x=n,t=o[Y('0xe')]===f[Y('0x7f')],c=Y(t?'0x143':'0x141'),e=v(),r=t?(0,b[Y('0xb9')])(e):e,(u=r,a=x,new(Z[Y('0x4')])(function(x,n){var t=document[Y('0x99')](Y('0xc0'));t[Y('0x114')]=u,t[Y('0x54')](Y('0x1df'),function(){return(0,V[Y('0x59')])(a)?x():(t[Y('0x68')][Y('0x111')](t),n())}),t[Y('0x54')](Y('0xd5'),function(){t[Y('0x68')][Y('0x111')](t),n()});try{m[Y('0x68')][Y('0x10e')](t,m)}catch(x){document[Y('0x5c')][Y('0x178')](t)}}))[Y('0xea')](function(x){return(0,U[Y('0xf0')])(o[Y('0x7')],c),x})[Y('0xeb')](function(x){throw(0,U[Y('0xf1')])(o[Y('0x7')],c,r),x}))[Y('0xeb')](function(){return function(){if(o[Y('0xe')]===f[Y('0x7f')])return new(Z[Y('0x4')])(function(x,n){return n()});var n=Y('0x142'),t=Y('0xe3')+(0,l[Y('0x1d')])()+o[Y('0x10')];return(0,i[Y('0xef')])(t)[Y('0xea')](function(x){return(0,U[Y('0xf0')])(o[Y('0x7')],n),x})[Y('0xeb')](function(x){throw(0,U[Y('0xf1')])(o[Y('0x7')],n,t),x})}()})[Y('0xeb')](function(){return(0,b[Y('0xbd')])(v())})[Y('0xea')](function(x){return(x=x&&x[Y('0xf9')]?x[Y('0xf9')]:x)&&(0,d[Y('0x1e1')])(o[Y('0x7')],x),x})[Y('0xeb')](function(){return(0,d[Y('0x1e2')])(o[Y('0x7')])})[Y('0xea')](function(x){if(x)return e=x,r=n,new(Z[Y('0x4')])(function(x,n){var t=document[Y('0x99')](Y('0xc0')),c=document[Y('0x1e0')](e);t[Y('0x54')](Y('0x1df'),function(){return(0,V[Y('0x59')])(r)?x():(t[Y('0x68')][Y('0x111')](t),n())}),t[Y('0x54')](Y('0xd5'),function(){t[Y('0x68')][Y('0x111')](t),n()}),t[Y('0x178')](c);try{m[Y('0x68')][Y('0x10e')](t,m)}catch(x){document[Y('0x5c')][Y('0x178')](t)}});var e,r;if(!(0,V[Y('0x59')])(n))throw new Error;return!0});var x,t,c,e,r,u,a};var c,o=t(0),f=t(6),i=t(11),l=t(1),b=t(8),d=t(32),V=t(5),e=t(13),Z=(c=e)&&c[Y('0x3')]?c:{default:c},U=t(15);var m=document[Y('0x3f')];function v(){return o[Y('0xe')]===f[Y('0x7f')]?o[Y('0xf')]:Y('0xe3')+(0,l[Y('0x1d')])()+o[Y('0xf')]}},function(x,n,t){'use strict';Object[Y('0x2')](n,Y('0x3'),{value:!0});var a=function(x,n){if(Array[Y('0x13c')](x))return x;if(Symbol[Y('0x138')]in Object(x))return function(x,n){var t=[],c=!0,e=!1,r=void 0;try{for(var u,a=x[Symbol[Y('0x138')]]();!(c=(u=a[Y('0x139')]())[Y('0x13a')])&&(t[Y('0x11d')](u[Y('0x52')]),!n||t[Y('0x3b')]!==n);c=!0);}catch(x){e=!0,r=x}finally{try{!c&&a[Y('0x13b')]&&a[Y('0x13b')]()}finally{if(e)throw r}}return t}(x,n);throw new TypeError(Y('0x13d'))};n[Y('0x1e1')]=function(x,n){var t=f(x),c=a(t,2),e=c[0],r=c[1];localStorage[e]=0,localStorage[r]=n},n[Y('0x1e2')]=function(x){var n=f(x),t=a(n,2),c=t[0],e=t[1],r=parseInt(localStorage[c],10)||0,u=localStorage[e];{if(o<=r)return delete localStorage[c],delete localStorage[e],null;if(!u)return null}return localStorage[c]=r+1,u};var c=Y('0x1e3'),e='c',r='u',o=3;function f(x){var n=parseInt(x,10)[Y('0x37')](36);return[[c,n][Y('0x23')](r),[c,n][Y('0x23')](e)]}}])}]);})();</script><script src="//native.propellerclick.com/1?z=2423167&eid=" data-cfasync="false" async onerror="_juhuk()" onload="_bvrcgrz()"></script>
+</div>
+<div class="clear"></div>
+
+        <!-- Read -->
+        <div id="divImage" style="padding-top: 10px">
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+        <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/Ads/geniee300a.aspx" width="300px" height="250px">
+        </iframe>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+        <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/Ads/geniee300b.aspx" width="300px" height="250px">
+        </iframe>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+            <p>
+                <img rel="noreferrer" src="/Content/images/blank.gif" onerror="rpb(this);" />
+            </p>
+
+        </div>
+        <div class="clear2">&nbsp;</div>
+        <div id="imgLoader" style="text-align: center;"><img src="/Content/images/loading.gif" /></div>
+        <div class="btnZoom-container">
+            <a href="javascript:void(0)" class="zoom-header"></a>
+            <a href="javascript:void(0)" class="btnZoom zoomIn" style="margin-right: 3px;">+</a>
+            <a href="javascript:void(0)" class="btnZoom zoomOut">-</a>
+        </div>
+        <div class="clear2">&nbsp;</div>
+
+<div class="clear2"></div>
+
+
+<div id="botads" style="width: 100%;">
+    <script type="text/javascript">
+        setTimeout(function() {
+            var script1 = document["createElement"]("script");
+            script1["src"] = "/Scripts/prop.nativeads.js?v=1";
+            document.getElementById('botads').appendChild(script1);
+            var script2 = document["createElement"]("script");
+            script2["src"] = "//native.propellerads.com/1?z=2015086&eid="
+            script2["async"] = "async";
+            script2["data-cfasync"] = "false";
+            script2.onerror = function() { _qcbot() };
+            script2.onload = function() { zszormd() };
+            document.getElementById('botads').appendChild(script2);
+        }, 5000)
+    </script>
+</div>
+<div class="clear2"></div>
+<div style="width: 620px; margin: 0px auto;">
+    <div style="float: left; width: 300px; position: relative;">
+
+        <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/Ads/geniee300a.aspx" width="300px" height="250px">
+        </iframe>
+
+        <!-- BEGIN BEBI BANNER JS TAG -->
+        <script type="text/javascript">
+            if (!window.BB_a) { BB_a = []; } if (!window.BB_ind) { BB_ind = 0; } if (!window.BB_r) { BB_r = Math.floor(Math.random() * 1000000000) } BB_ind++; BB_a.push({ "pl": 42965, "index": BB_ind });
+        </script>
+        <script data-cfasync="false" type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script>
+<script type="text/javascript" src="/ac/cT6ly2PjXTzXjdMzdN8WPvRYZL5ejJ-d"></script>
+        <!-- END TAG -->
+
+        <div class="divCloseBut" style="position:absolute; left: 0px; top: 250px; visibility: visible;"><a href="javascript:void(0)" onclick="$(this).parent().parent().remove();">Hide</a></div>
+    </div>
+    <div style="float: left; margin-left: 20px; width: 300px; position: relative;">
+
+        <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/Ads/geniee300b.aspx" width="300px" height="250px">
+        </iframe>
+
+        <!-- BEGIN BEBI BANNER JS TAG -->
+        <script type="text/javascript">
+            if (!window.BB_a) { BB_a = []; } if (!window.BB_ind) { BB_ind = 0; } if (!window.BB_r) { BB_r = Math.floor(Math.random() * 1000000000) } BB_ind++; BB_a.push({ "pl": 42966, "index": BB_ind });
+        </script>
+        <script data-cfasync="false" type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script>
+<script type="text/javascript" src="/ac/cT6ly2PjbHoP7VfCyBduuLiOD_LVu-"></script>
+        <!-- END TAG -->
+
+        <div class="divCloseBut" style="position:absolute; left: 0px; top: 250px; visibility: visible;"><a href="javascript:void(0)" onclick="$(this).parent().parent().remove();">Hide</a></div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+        <div class="clear">&nbsp;</div>
+        <!-- Episodes and pages -->
+        <div style="margin: auto; width: 600px; padding-top: 10px">
+            <div style="float: left">
+                <label class="lbl">Issue</label>
+                <select class="selectEpisode" style="width: 380px">
+
+                    <option value="Issue-1?id=66344" >
+                        Issue #1
+                    </option>
+
+                    <option value="Issue-2?id=66348" >
+                        Issue #2
+                    </option>
+
+                    <option value="Issue-3?id=66350" >
+                        Issue #3
+                    </option>
+
+                    <option value="Issue-4?id=88094" >
+                        Issue #4
+                    </option>
+
+                    <option value="Issue-5?id=88095" >
+                        Issue #5
+                    </option>
+
+                    <option value="Issue-6?id=94066" >
+                        Issue #6
+                    </option>
+
+                    <option value="Issue-7?id=94067" >
+                        Issue #7
+                    </option>
+
+                    <option value="Issue-8?id=96312" >
+                        Issue #8
+                    </option>
+
+                    <option value="Issue-9?id=102710" >
+                        Issue #9
+                    </option>
+
+                    <option value="Issue-10?id=102712" >
+                        Issue #10
+                    </option>
+
+                    <option value="Issue-11?id=105604" >
+                        Issue #11
+                    </option>
+
+                    <option value="Issue-12?id=134596" >
+                        Issue #12
+                    </option>
+
+                    <option value="Issue-13?id=134598" >
+                        Issue #13
+                    </option>
+
+                    <option value="Issue-14?id=134600" >
+                        Issue #14
+                    </option>
+
+                    <option value="Issue-15?id=135591" >
+                        Issue #15
+                    </option>
+
+                    <option value="Issue-16?id=135620" >
+                        Issue #16
+                    </option>
+
+                    <option value="Issue-17?id=135641" >
+                        Issue #17
+                    </option>
+
+                    <option value="Issue-18?id=137697" selected>
+                        Issue #18
+                    </option>
+
+                </select>
+            </div>
+            <div style="float: left; padding-left: 20px">
+
+                <a href="/Comic/Chronicles-of-the-Dragon-Knights/Issue-17?id=135641">
+                    <img class='btnPrevious' src="/Content/images/previous.png" title="Previous Issue" border="0" />
+                </a>&nbsp;&nbsp;
+
+            </div>
+        </div>
+        <!-- End Episodes and pages -->
+        <div class="clear2">&nbsp;</div>
+        <div>
+
+<span id="spBookmark">
+    <a style="display: inline" id="aRead" href="javascript:void(0)" title="Mark as read in bookmark list">
+        <img border="0" style="vertical-align: middle" src="/Content/Images/include.png" />&nbsp;[ Mark as read ]
+    </a>
+</span>
+<script type="text/javascript">
+    $('#aRead').click(function () {
+        $('#aRead').html('<img class="imgLoader" src="/Content/images/loader.gif" />');
+        $.ajax({
+            type: "POST",
+            url: "/MarkBookmarkDetail",
+            data: "bdid=1001155&strAlreadyRead=1",
+            success: function (message) {
+                if (message != "") {
+                    $('#spBookmark').html('[Done]');
+                }
+                else {
+
+                }
+            }
+        });
+    });
+</script>
+
+        </div>
+        <div class="clear">&nbsp;</div>
+        <p>
+            <b>You can choose reading type 'One page'/'All pages' on top.</b>
+        </p>
+        <div class="clear2">&nbsp;</div>
+    </div>
+    <script type="text/javascript">
+        var lstImages = new Array();
+
+        lstImages.push("https://2.bp.blogspot.com/-H15AMJ_bbOg/W93KaB7QdJI/AAAAAAABPGo/h5J2-TzDQGI0jePm4pTr2pF0V4lVXInOACHMYCw/s0/RCO001.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-wTkAYjGoPww/W93Kap_pYUI/AAAAAAABPGs/4KJe-HPva5ooXstyk-_viveUxSB1w56RQCHMYCw/s0/RCO002.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/--MBJliYnrYA/W93KbbfNP9I/AAAAAAABPGw/PfXHlPVgPNkHs9tH02TGY3o6wfEkPRQ9gCHMYCw/s0/RCO003.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-M8S0141lx-o/W93Kb0uItzI/AAAAAAABPG0/R_feLnpQ2ncSGbpyzds21ZR3e2VEk0jXQCHMYCw/s0/RCO004.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-pByJU0TS2yA/W93KcfD2ABI/AAAAAAABPG4/BbLSfAP4ZhU6iH7bLVTnqxA5Q_vI24wCQCHMYCw/s0/RCO005.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-VXuz1x0H-VE/W93KdBQiBYI/AAAAAAABPG8/Obqx-DH0UJcRpF66zhlkgfZPlNEH4zNqwCHMYCw/s0/RCO006.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-bMK4M5jWWog/W93KdeSW89I/AAAAAAABPHA/j1CkGnwlnu0zbWLaZODAd44RK3LIV-7RwCHMYCw/s0/RCO007.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-k_OTqn9y5Aw/W93KeA2yLvI/AAAAAAABPHE/yZbXGxoAIZs5ywqB5EtrP7TpcpoXZI33QCHMYCw/s0/RCO008.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-vujELOlQeCA/W93Kehg0J5I/AAAAAAABPHI/bsEip8dKXpsR5WAUuX_7Ir37CfTN-s00wCHMYCw/s0/RCO009.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-_Xw8m1QC_JI/W93KfM__vZI/AAAAAAABPHM/vert9bgcKzMj-MVoCp8m_TtiYrT8SfKPACHMYCw/s0/RCO010.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-CWslJdSzcJo/W93Kflw2FdI/AAAAAAABPHQ/Nl_RywMusYAyN7JldJSLzteM6N1N2n5WQCHMYCw/s0/RCO011.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-DxA-WR7ZK_U/W93KgRKPCKI/AAAAAAABPHU/aLziBA33WG8l6OInYxlsKKGxC_e5XsS5ACHMYCw/s0/RCO012.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-AUKB_A9dTJ0/W93Kgwq2Y3I/AAAAAAABPHY/s1Gv262Z9tw-c90lIJOqS5Qve9LuO3J4QCHMYCw/s0/RCO013.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-Mj7dRytHcfo/W93KhdZE-UI/AAAAAAABPHc/ydAT2Ua9N_gSC1OKIH2Mv5I3jkZax5gOwCHMYCw/s0/RCO014.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-UrOOIEFr0Q4/W93Kh3pzUzI/AAAAAAABPHg/y5vgncrrLcYw0TV5uycWalEGh8XjfwDxACHMYCw/s0/RCO015.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-rnyrGVKcHO0/W93KiZ-CZ_I/AAAAAAABPHk/clCy3HZKDaAJIg-s2RgzOM1tQU-qb8SHACHMYCw/s0/RCO016.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-zGC2_jIfZag/W93Ki3mPBII/AAAAAAABPHo/H8s7k8_59mARAYjvsG1yV2vrLcJYWMEPwCHMYCw/s0/RCO017.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-9BFFe8nwGfs/W93KjXO5a0I/AAAAAAABPHs/BK7hocMt9zgujQ_WqhkDF_RuiJuZpnniwCHMYCw/s0/RCO018.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-Wixk7MJW2qo/W93Kjzqe4DI/AAAAAAABPHw/pKjML1KQh4YypQvtSqOO0KzbxERxgNyXACHMYCw/s0/RCO019.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-0lXg9nd7J6Y/W93KkTcx0mI/AAAAAAABPH0/ZIhLC1guyVIprX069ElRdYyrnMqHqk6OgCHMYCw/s0/RCO020.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-HCmiaITGEf8/W93Kk2hCLRI/AAAAAAABPH4/ShRDLOOkXZwtLe_ZlEBuykzxgzjWD9oOgCHMYCw/s0/RCO021.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-1-K5XBJ06vA/W93KlQH04YI/AAAAAAABPH8/2jPrA4c4uq8-qRhauhtCj7guasltTFz7QCHMYCw/s0/RCO022.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-A_4Bn7z_CWk/W93Kl_baRqI/AAAAAAABPIA/63Lio4XX32MD1NMr6FqFXAhYGatYq1ljgCHMYCw/s0/RCO023.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-1cyGj3SUFc0/W93KmXbqxsI/AAAAAAABPIE/0KdvWXcR3sYTvSVBtmyGEeek-_cvaU7FwCHMYCw/s0/RCO024.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-qYLb1AHWyaU/W93Km4WZWBI/AAAAAAABPII/naoF3RiF5m0p8o9WYzw4V9pZb5crAhhawCHMYCw/s0/RCO025.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-CFBHP_ZtY-o/W93KnW2XziI/AAAAAAABPIM/jnLtZzfvn2s2HNOHwrEDynkF1HYIId0SACHMYCw/s0/RCO026.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-QzGfh8si_sI/W93Kn_dOozI/AAAAAAABPIQ/1zThlXCrphEFZJEn7f743IWf-kopOvd4QCHMYCw/s0/RCO027.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-GEYx38Lntr4/W93KotfhuwI/AAAAAAABPIU/sGeZ-PRaB608WbNXQP1WtDgIm9c3frPJgCHMYCw/s0/RCO028.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-nunGUx_eOHM/W93KpGYQjfI/AAAAAAABPIY/a3DGA6Qyg1s-qicOSmIjzqs_fIyz_5z4QCHMYCw/s0/RCO029.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-Q7n3sDRKddk/W93KpkboTyI/AAAAAAABPIc/bRGrMTS-fwATe-iWrfOEwfekxMK7hsfVwCHMYCw/s0/RCO030.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-whjLzWB_q2c/W93KqO4jGsI/AAAAAAABPIg/v-mAPpkjebgNeVk4VEtOjuUDuCLtFKVjwCHMYCw/s0/RCO031.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-AYqWr3Jizi4/W93Kqt83AqI/AAAAAAABPIk/lJyJUKtRg64n6PL3YT-ZP71MCPgmnotzACHMYCw/s0/RCO032.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-gHDkQVTkCNQ/W93KrLe_O6I/AAAAAAABPIo/2oI7vm3v30UshGTAOX6GMFFucUfjlQlCwCHMYCw/s0/RCO033.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-0PbLt7SEQ9w/W93KrrqE2iI/AAAAAAABPIs/xTLj7s5sfKEDJT96usKBImeAyUZ3C5knwCHMYCw/s0/RCO034.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-GWQ6e_rG1zw/W93KsBk4iMI/AAAAAAABPIw/AOm8xWWcELglVj2cUTqR3PEzdVo-0hQzQCHMYCw/s0/RCO035.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-1hkMiOBEsPk/W93KszJ2S2I/AAAAAAABPI0/KmsdRXs-eYMBNMftZxxHRfxKINqi2C9TACHMYCw/s0/RCO036.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-zfkeLSfXBBg/W93KtTGVhyI/AAAAAAABPI4/uRzh44-PVyw8VVozUIL0Q6Tbmsw26qYHACHMYCw/s0/RCO037.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-qQ2xkCZzLrM/W93Kt2MteYI/AAAAAAABPI8/s6AEegdyf7wYeQDq316w-XlTtcY6wEBAQCHMYCw/s0/RCO038.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-IL8OMZtNcYI/W93KuceMVyI/AAAAAAABPJA/ai8R3TW5xbkqShxXvFf6bz0HStE7b3JaACHMYCw/s0/RCO039.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-wnQLORQ_qOE/W93Ku2hHjLI/AAAAAAABPJE/C3fjK62D7k8XtXmomibfIL25xhE1N7DXgCHMYCw/s0/RCO040.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-N5XWB-UDhhk/W93Kvicc7CI/AAAAAAABPJI/AMRIwdpjPRo-PZILpn4gRoRXev9ZHs5lACHMYCw/s0/RCO041.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-W6EjvrbDxpQ/W93KwKdZKFI/AAAAAAABPJM/8fA9VZbh8OACDis0ot30wPU4tceMpUMMgCHMYCw/s0/RCO042.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-KZf8AGa7D4E/W93KwhHGniI/AAAAAAABPJQ/TlF8LZfvGVsaDx3Le6DothzAG7lObup5gCHMYCw/s0/RCO043.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-cefB2tVqtwE/W93KxENwhFI/AAAAAAABPJU/1j1lMvmQ3DAYyGR4rtD7TXcqZdAPdswlACHMYCw/s0/RCO044.jpg");
+
+        lstImages.push("https://2.bp.blogspot.com/-jEJRpG0FzaM/W93KxvxfeBI/AAAAAAABPJY/IQfmwi5Q6PEywjMrEEgeb3x6VuS4-IDzACHMYCw/s0/RCO045.jpg");
+
+        var currImage = 0;
+        var lstImagesLoaded = new Array();
+        var requestFix = false;
+
+        $('#divImage img[src*="/Content/images/blank.gif"]:first').attr('src', lstImages[currImage]);
+        currImage++;
+        $('#divImage img[src*="/Content/images/blank.gif"]:first').attr('src', lstImages[currImage]);
+        currImage++;
+
+        $("#divImage img").load(function() {
+            var srcImage = $(this).attr('src');
+
+            if (jQuery.inArray(srcImage, lstImagesLoaded) < 0)
+            {
+                lstImagesLoaded.push(srcImage);
+                if (currImage < lstImages.length) {
+                    $('#divImage img[src*="/Content/images/blank.gif"]:first').attr('src', lstImages[currImage]);
+                    currImage++;
+                }
+                else {
+                    $('#imgLoader').hide();
+                }
+
+                if (!requestFix) {
+                    if ($(this).width() == 200 && $(this).height() == 200) {
+                        rpb($(this));
+                    }
+                }
+            }
+        });
+
+        $('#selectReadType').change(function () {
+            window.location = '/Comic/Chronicles-of-the-Dragon-Knights/Issue-18?id=137697&readType=' + $(this).val();
+        });
+
+        $('#selectQuality').change(function() {
+            window.location = '/Comic/Chronicles-of-the-Dragon-Knights/Issue-18?id=137697&quality=' + $(this).val();
+        });
+
+        $('.selectEpisode').change(function () {
+            location.href = '/Comic/Chronicles-of-the-Dragon-Knights/' + $(this).val();
+        });
+
+        function rpb(ele) {
+            if (!requestFix) {
+                var srcImage = $(ele).attr('src');
+                $.ajax({
+                    url: srcImage,
+                    type: 'GET',
+                    complete: function (xhr, textStatus) {
+                        if (xhr.status == 404 || textStatus == 'error') {
+                            requestFix = true;
+                            $.ajax({
+                                type: "POST",
+                                url: "/External/RPB",
+                                data: {eid: 137697},
+                                success: function (message) {
+                                    if (message == "0") {
+                                        alert("This issue is broken, we're working to fix it.");
+                                    } else {
+                                        //alert("There is network problem, please try to refresh browser.");
+                                    }
+                                }
+                            });
+                        }
+                    }
+                });
+            }
+        }
+    </script>
+    <script type="text/javascript" src="/Scripts/kissreader.js"></script>
+
+<div id="fl-ads" class="rf-container">
+    <a class="btnClose" href="javascript:void(0)" onclick="hide_float();">x</a>
+    <div class="clear"></div>
+    <div class="content">
+        <div style="font-size: 0; position: relative; width: 300px; height: 250px;">
+            <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme3" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/ads/geniee300c.aspx" width="300px" height="250px"></iframe>
+            <!-- BEGIN BEBI BANNER JS TAG -->
+            <script type="text/javascript">
+                if (!window.BB_a) { BB_a = []; } if (!window.BB_ind) { BB_ind = 0; } if (!window.BB_r) { BB_r = Math.floor(Math.random() * 1000000000) } BB_ind++; BB_a.push({ "pl": 42967, "index": BB_ind });
+            </script>
+            <script data-cfasync="false" type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script>
+<script type="text/javascript" src="/ac/cT6ly2PjYuWhnuZgkasZREAi2vLH"></script>
+            <!-- END TAG -->
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function hide_float() {
+        var content = document.getElementById('fl-ads');
+        content.style.display = "none";
+    }
+</script>
+
+<div class="clear2">
+</div>
+<div class="clear2">
+</div>
+<div style="text-align: center;">
+    <div style="display: inline; width: 90px">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
+            scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px;
+            height: 21px; vertical-align: middle" allowtransparency="true"></iframe>
+    </div>
+    <div style="display: inline;">
+        <span class='st_fblike_hcount' displaytext='Facebook Like'></span><span class='st_facebook_hcount'
+            displaytext='Facebook'></span><span class='st_twitter_hcount' displaytext='Tweet'>
+        </span><span class='st_googleplus_hcount' displaytext='Google +'></span><span class='st_sharethis_hcount'
+            displaytext='ShareThis'></span>
+        <script type="text/javascript">            var switchTo5x = true;</script>
+        <script type="text/javascript" src="//ws.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">            stLight.options({ publisher: "39da8212-8bbb-4097-a85f-6cedb7bc9464" }); </script>
+    </div>
+    <div class="clear2">
+        &nbsp;
+    </div>
+        <div class="clear2">
+        &nbsp;
+    </div>
+    <div style="font-size: 14px; font-weight: bold;">
+        Please do NOT spoil content of NEXT issues <a href="/Message/ReportError"
+            target="_blank" rel="nofollow">[Report spoiler]</a>. Do not spam or link to
+        other comic sites.
+    </div>
+    <div class="clear2">
+        &nbsp;
+    </div>
+</div>
+<div class="clear2">
+    &nbsp;
+</div>
+<div style="width: 820px; text-align: center; margin: auto; background-color: #1f1f1f"
+    id="divComments">
+    <div style="width: 780px; display: inline-block">
+        <div id="disqus_thread">
+            Loading...
+        </div>
+    </div>
+    <script type="text/javascript">
+        var disqus_shortname = 'readcomiconline'; // required: replace example with your forum shortname
+        var disqus_url = 'https://readcomiconline.to/Comic/Chronicles-of-the-Dragon-Knights/Issue-18?id=137697';
+        var disqus_identifier = 'e137697';
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();        
+    </script>
+</div>
+<div class="clear2">
+    &nbsp;</div>
+<div style="text-align: center;">
+    <a href="#">[ Back to top ]</a>
+</div>
+
+        <!-- end div container -->
+        <div class="clear">
+            &nbsp;</div>
+        <div class="clear">
+            &nbsp;</div>
+        <div class="clear">
+            &nbsp;</div>
+        
+    </div>
+    
+
+
+
+<script type="text/javascript">
+    var _0xda1b = ["\x73\x63\x72\x69\x70\x74", "\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74", "\x73\x72\x63", "\x2F\x2F\x67\x6F\x2E\x6D\x6F\x62\x74\x72\x6B\x73\x2E\x63\x6F\x6D\x2F\x6E\x6F\x74\x69\x63\x65\x2E\x70\x68\x70\x3F\x70\x3D\x31\x36\x35\x30\x36\x31\x38\x26\x69\x6E\x74\x65\x72\x73\x74\x69\x74\x69\x61\x6C\x3D\x31", "\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64", "\x62\x6F\x64\x79"]; setTimeout(function() { var _0xb692x1 = document[_0xda1b[1]](_0xda1b[0]); _0xb692x1[_0xda1b[2]] = _0xda1b[3]; document[_0xda1b[5]][_0xda1b[4]](_0xb692x1) }, 5000)
+</script>
+
+    <div id="footer">
+        <div id="footcontainer" style="position: relative">
+            <p>
+                From 2015 <a href="/">ReadComicOnline.to</a>. Copyrights and trademarks
+                for the comic, and other promotional materials are held by their respective owners
+                and their use is allowed under the fair use clause of the Copyright Law.
+                
+
+<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a target="_blank" href="https://m.me/readcomiconline">Contact us</a>&nbsp;&nbsp;</p>
+        </div>
+    </div>
+    <div class="top_page_alert">Adblock extensions will affect to a several website features. Please turn it off for best experience!</div>
+    <script type="text/javascript">
+        $('#footer').css('top', $(document).height() - $('#containerRoot').height());
+        $.ajaxSetup({
+            cache: false
+        });
+
+        var alb = true;
+
+        $.getScript('https://pubmatic.com/wp-content/themes/pubmatic/js/jquery.alignHeight.js?ver=1.0').done(function (script, textStatus) {
+            alb = false;
+        });
+
+        $.getScript('https://propellerads.com/wp-content/plugins/radiantthemes-addons/tabs/js/radiantthemes-tab-element-four.js').done(function(script, textStatus) {
+            alb = false;
+        });
+
+        $.getScript('https://www.bebi.com/js/plugins.js').done(function (script, textStatus) {
+            alb = false;
+        });
+
+        function leHzI() {
+            if (alb) {
+                $('.top_page_alert').css('display', 'block');
+            }
+        }
+
+        setTimeout('leHzI()', 5000);
+    </script>
+</body>
+</html>
